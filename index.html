@@ -1,0 +1,211 @@
+---
+title: "Home"
+layout: default
+---
+
+<div class="container">
+  
+{% if page.url == "/" %}
+  
+<!-- Begin post excerpts -->
+<div class="row">
+      <div class="col-md-4">
+      
+      {% for post in site.posts %}
+        {% if post.url == '/porque-ser-vegano/' %}   
+      <div class="mb-3 d-flex align-items-center">                
+              <div>
+                  <h2 class="mb-2 h6 home-title">
+                  <a class="text-dark" href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
+                  </h2>
+                  <p class="mb-3 lead">
+                      {{ post.excerpt | strip_html | strip_newlines | truncate: 200 }} <a href="{{site.baseurl}}{{post.url}}" style="font-weight:700;text-decoration:none">Ler&nbsp;mais&nbsp;&#8594;</a>
+                  </p>                    
+
+              </div>
+          </div>
+        {% endif %}
+      {% endfor %} 
+  </div>
+  
+  
+  <div class="col-md-4 border-left">
+      
+      {% for post in site.posts %}
+        {% if post.url == '/a-minha-filha-tornou-se-vegana-e-agora/' %}      
+      <div class="mb-3 d-flex align-items-center">                
+              <div>
+                  <h2 class="mb-2 h6 home-title">
+                  <a class="text-dark" href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
+                  </h2>
+                  <p class="mb-3 lead">
+                      {{ post.excerpt | strip_html | strip_newlines | truncate: 200 }} <a href="{{site.baseurl}}{{post.url}}" style="font-weight:700;text-decoration:none">Ler&nbsp;mais&nbsp;&#8594;</a>
+                  </p>                    
+
+              </div>
+          </div>
+        {% endif %}
+      {% endfor %}
+      </div>
+  
+  <div class="col-md-4 border-left">
+      
+      {% for post in site.posts %}
+        {% if post.url == '/quero-ser-vegano-por-onde-comeco/' %}       
+      <div class="mb-3 d-flex align-items-center">                
+              <div>
+                  <h2 class="mb-2 h6 home-title">
+                  <a class="text-dark" href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
+                  </h2>
+                  <p class="mb-3 lead">
+                      {{ post.excerpt | strip_html | strip_newlines | truncate: 200 }} <a href="{{site.baseurl}}{{post.url}}" style="font-weight:700;text-decoration:none">Ler&nbsp;mais&nbsp;&#8594;</a>
+                  </p>                    
+
+              </div>
+          </div>
+        {% endif %}
+      {% endfor %}                 
+  </div>
+
+  
+  {% for post in site.posts %} 
+{% if post.tags contains "sticky" %}
+<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-2rem mb-3 bg-lightblue position-relative">
+  <div class="pl-4 pr-0 h-100 tofront">
+      <div class="row justify-content-between">
+          <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-right">
+              <h2 class="mb-2 mt-4 h6 home-title">
+              <a class="text-dark" href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h2>
+              <p class="mb-3 lead">
+                  {{ post.excerpt | strip_html | strip_newlines | truncate: 200 }}
+                  <br /><a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Ler mais</a>
+          </div>
+          <div class="col-md-6 d-none d-md-block pr-0" onclick="window.location = {{site.baseurl}}{{post.url}}" style="background-size:cover;background-position: bottom;background-image:url({{ post.image }});cursor:pointer;">
+          </div>
+      </div>
+  </div>
+</div> 
+{% endif %}
+{% endfor %}
+
+      <div class="col-md-4">
+      {% for post in site.posts %}
+        {% if post.url == '/e-possivel-gostar-de-animais-e-nao-ser-vegano/' %}     
+      <div class="mb-3 d-flex align-items-center">                
+            
+              <div>
+                  <h2 class="mb-2 h6 home-title">
+                  <a class="text-dark" href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
+                  </h2>
+                  <p class="mb-3 lead">
+                      {{ post.excerpt | strip_html | strip_newlines | truncate: 200 }} <a href="{{site.baseurl}}{{post.url}}" style="font-weight:700;text-decoration:none">Ler&nbsp;mais&nbsp;&#8594;</a>
+                  </p>
+
+              </div>
+          </div>
+        {% endif %}
+      {% endfor %}            
+      
+      {% for post in site.posts %}
+        {% if post.url == '/quando-eu-me-tornar-vegano-como-vao-reagir-familiares-amigos-e-conhecidos/' %}        
+      <div class="mb-3 d-flex align-items-center">                               
+              <div>
+                  <h2 class="mb-3 h6 home-title">
+                  <a class="text-dark" href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
+                  </h2>
+                  <p class="mb-3 lead">
+                      {{ post.excerpt | strip_html | strip_newlines | truncate: 200 }} <a href="{{site.baseurl}}{{post.url}}" style="font-weight:700;text-decoration:none">Ler&nbsp;mais&nbsp;&#8594;</a>
+                  </p>
+
+              </div>
+          </div>
+        {% endif %}
+      {% endfor %}                    
+  </div>    
+  
+  <div class="col-md-4 border-left">
+      
+      {% for post in site.posts %}
+        {% if post.url == '/diz-se-vegan-ou-vegano-a/' %}       
+      <div class="mb-3 d-flex align-items-center">                
+              <div>
+                  <h2 class="mb-2 h6 home-title">
+                  <a class="text-dark" href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
+                  </h2>
+                  <p class="mb-3 lead">
+                      {{ post.excerpt | strip_html | strip_newlines | truncate: 200 }} <a href="{{site.baseurl}}{{post.url}}" style="font-weight:700;text-decoration:none">Ler&nbsp;mais&nbsp;&#8594;</a>
+
+                  </p>
+
+              </div>
+          </div>
+        {% endif %}
+      {% endfor %}            
+      
+      {% for post in site.posts %}
+        {% if post.url == '/porque-e-que-os-veganos-estao-sempre-a-dizer-a-toda-a-gente-que-sao-veganos/' %}        
+      <div class="mb-3 d-flex align-items-center">                               
+              <div>
+                  <h2 class="mb-3 h6 home-title">
+                  <a class="text-dark" href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
+                  </h2>
+                  <p class="mb-3 lead">
+                      {{ post.excerpt | strip_html | strip_newlines | truncate: 200 }} <a href="{{site.baseurl}}{{post.url}}" style="font-weight:700;text-decoration:none">Ler&nbsp;mais&nbsp;&#8594;</a>
+
+                  </p>
+
+              </div>
+          </div>
+        {% endif %}
+      {% endfor %}            
+      
+  </div>
+  
+  <div class="col-md-4 border-left">
+     
+      
+      {% for post in site.posts %}
+        {% if post.url == '/a-dieta-100-vegetal-e-saudavel/' %}       
+      <div class="mb-3 d-flex align-items-center">                
+              <div>
+                  <h2 class="mb-2 h6 home-title">
+                  <a class="text-dark" href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
+                  </h2>
+                  <p class="mb-3 lead">
+                      {{ post.excerpt | strip_html | strip_newlines | truncate: 200 }} <a href="{{site.baseurl}}{{post.url}}" style="font-weight:700;text-decoration:none">Ler&nbsp;mais&nbsp;&#8594;</a>
+
+                  </p>
+
+              </div>
+          </div>
+        {% endif %}
+      {% endfor %}            
+      
+      {% for post in site.posts %}
+        {% if post.url == '/alem-da-alimentacao-o-que-mais-muda-quando-me-torno-vegano/' %}    
+      <div class="mb-3 d-flex align-items-center">                               
+              <div>
+                  <h2 class="mb-3 h6 home-title">
+                  <a class="text-dark" href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
+                  </h2>
+                  <p class="mb-3 lead">
+                      {{ post.excerpt | strip_html | strip_newlines | truncate: 200 }} <a href="{{site.baseurl}}{{post.url}}" style="font-weight:700;text-decoration:none">Ler&nbsp;mais&nbsp;&#8594;</a>
+
+                  </p>
+              </div>
+          </div>
+        {% endif %}
+      {% endfor %}       
+        
+      
+  </div>
+  
+  
+  
+</div>
+
+<br /><br /><p style="text-align:center;font-size:2rem;font-weight:600" class="lead"><a href="/indice" style="text-decoration:none">Todas as questões <b>&#8594;</b></a></p>   
+
+{% endif %} <!--endif page url is / -->
+
+</div>

@@ -1,0 +1,21 @@
+---
+title: Já sou vegano. O que mais posso fazer?
+layout: post
+permalink: /ja-sou-vegano-o-que-mais-posso-fazer/
+---
+Se já és vegano e queres fazer mais para construir um mundo sem exploração animal, tens um universo de opções!
+
+É importante começares por pensar nas tuas mais-valias, nos teus talentos, e em como podes utilizá-los em favor dos animais. Se tens jeito para as artes visuais, cria arte que promova os direitos dos animais. Se escreves bem, cria um site ou blog para publicares conteúdo sobre o tema - ou, quem sabe, escreve um livro! Se gostas de política, envolve-te num partido para tentares levar a voz dos animais aos centros de decisão, ou organiza campanhas para pressionar os políticos a valorizarem o tema. Se compões, tocas ou cantas, usa a música para espalhar a mensagem. Se és uma verdadeira _people person_, organiza eventos ou distribui panfletos. Se dominas as redes sociais, cria uma página ou perfil para divulgar informação. Se tens jeito para a cozinha, partilha-o com o mundo e ajuda a mostrar como a comida 100% vegetal é saborosa. Se és veterinário, advogado, programador, contabilista, designer, etc., voluntaria-te para ajudar uma associação ou projeto. Se és empreendedor, cria um produto ou negócio vegano. Sê criativo! Nem todos teremos a oportunidade de denunciar a crueldade da indústria do leite perante uma audiência de milhões de pessoas durante o [discurso de aceitação de um Oscar](https://www.youtube.com/watch?v=A_VY8HvBBR8), mas **todos temos algum tempo, energia e talento que podemos dedicar à promoção dos direitos dos animais**!
+
+Uma sugestão é que procures comunidades ou associações de veganos, seja na tua zona ou online, e vejas o que essas pessoas já estão a fazer. A união faz a força, e podes multiplicar o teu impacto ao juntares a tua voz à de outros ativistas ou ao colaborares com projetos já estabelecidos. Na questão [É possível obter apoio na minha transição para o veganismo?](/e-possivel-obter-apoio-na-minha-transicao-para-o-veganismo/) encontrarás informação sobre algumas dessas comunidades, mas uma pesquisa rápida no Google ou em diferentes redes sociais também é um bom ponto de partida.
+
+Para quem está à procura de uma forma de ser mais ativo na defesa dos animais e domina o inglês, recomendamos vivamente o curso gratuito [Animal Justice Academy](https://animaljusticeacademy.com), da associação canadiana Animal Justice. Ao longo de seis semanas, são apresentadas diversas formas de ativismo, com testemunhos e dicas de ativistas experientes que te vão ensinar e inspirar a mudar o mundo.
+
+E tens também o [VeganActivism.com](https://veganactivism.org), com dezenas de sugestões de ativismo, algumas tão simples como "perguntar sempre pelas opções veganas" ou "apoiar um comentário pró-veganismo por dia no Facebook". Dentro desse espírito, aproveitamos para sugerir que imprimas algumas cópias do panfleto [refeição vegetariana no menu](https://www.vidanimal.org/2016/03/panfleto-refeicao-vegetariana-no-menu.html), da Associação Vida Animal, para entregares nos teus restaurantes favoritos :)
+
+Além disso, gostaríamos de mencionar que uma excelente forma de apoiar qualquer causa é fazer donativos. Todas as organizações precisam de fundos para o seu funcionamento diário, e isso é especialmente importante quando falamos daquelas que resgatam e mantêm animais, como é o caso dos santuários [Associação Quinta das Águias](http://quintadasaguias.org) e [Quintinha da Liz](https://www.facebook.com/aquintinhadalizsantuarioanimal/). Se tiveres essa possibilidade, esta é uma forma imensamente eficaz não apenas de ajudar os animais que lá vivem, mas também de apoiar o valiosíssimo trabalho dessas instituições na promoção dos direitos dos animais e de uma alimentação 100% vegetal.
+
+![[Foto de um ganso na Quinta das Águias]](/assets/images/quinta_aguias_ganso_cantor.png "Um ganso na Quinta das Águias")
+
+<div class="img-caption">Foto cedida pela <a href="https://www.facebook.com/associacaoquintadasaguias/photos/2334927716599653">Quinta das Águias</a>.</div>
+
