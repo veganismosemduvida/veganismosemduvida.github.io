@@ -13,6 +13,7 @@ Felizmente, já são muitos os recursos para quem procura receitas 100% vegetais
 * [Associação Vegetariana Portuguesa](https://www.avp.org.pt/receitas)
 * [Compassionate Cuisine](https://compassionatecuisineblog.com/receitas/)
 * [Made by Choices](https://madebychoices.pt/receitas-saudaveis)
+* [Meaningful Flavours](https://www.meaningfulflavours.com/category/receitas/)
 * [O Vegetariano](http://ovegetariano.pt/asreceitas/receitas/)
 * [Sardinha Fora da Lata](https://sardinhaforadalata.com/receitas-categorias)
 * [SociedadeVegan.com](https://sociedadevegan.com/category/receitas-vegan)
