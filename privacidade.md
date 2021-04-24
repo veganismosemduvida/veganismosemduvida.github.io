@@ -1,6 +1,8 @@
 ---
 title: Privacidade
 layout: page
+sitemap:
+  exclude: 'yes'
 ---
 
 Como indicado no pedido de permissão acima (que, caso já tenhas clicado no botão "Aceito", já não deve estar visível), este site utiliza cookies para fins estatísticos. Lê abaixo algumas informações a esse respeito.
