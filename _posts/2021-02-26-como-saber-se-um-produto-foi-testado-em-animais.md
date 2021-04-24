@@ -10,7 +10,7 @@ Verdade seja dita &#8211; nem sempre é fácil. E por várias razões:
   * A indicação de que não foi testado em animais pode ser enganosa, pois pode significar apenas que o produto finalizado não foi testado, mas os seus ingredientes sim.
   * Em muitos casos, nem sequer nos ocorre que determinado tipo de produto possa ser testado em animais, pelo que nem nos damos ao trabalho de investigar.
 
-Até mesmo a legislação pode ser enganosa; é do conhecimento geral que a União Europeia proíbe desde 2013 a venda de produtos cosméticos que tenham sido testados em animais, mas os detalhes demonstram que a lei não é o que parece. Segundo o site da [Cruelty Free International](https://www.crueltyfreeinternational.org/what-we-do/corporate-partnerships/prohibitions-cosmetics-testing-eu-and-elsewhere):
+É do conhecimento geral que a União Europeia proíbe desde 2013 a venda de produtos cosméticos que tenham sido testados em animais, mas os detalhes demonstram que a lei não é o que parece. Segundo o site da [Cruelty Free International](https://www.crueltyfreeinternational.org/what-we-do/corporate-partnerships/prohibitions-cosmetics-testing-eu-and-elsewhere):
 
   * A proibição aplica-se apenas a testes cosméticos; testes ecotox (sobre o impacto dos produtos no ambiente) e testes de segurança para os trabalhadores podem continuar a ser feitos em animais.
   * Produtos finais não podem ser testados em animais, mas ingredientes sim &#8211; mesmo que esses ingredientes sejam para uso exclusivo em cosméticos.
