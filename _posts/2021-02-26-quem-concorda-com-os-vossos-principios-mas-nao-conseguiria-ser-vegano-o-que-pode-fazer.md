@@ -2,6 +2,8 @@
 title: Quem concorda com os vossos princípios mas não conseguiria ser vegano, o que pode fazer?
 layout: post
 permalink: /quem-concorda-com-os-vossos-principios-mas-nao-conseguiria-ser-vegano-o-que-pode-fazer/
+image: /assets/images/quinta_aguias_cordeiro.png
+tags: [não consigo deixar de comer carne, não conseguiria ser vegana, não conseguiria ser vegano, não conseguiria ser vegan, veganismo difícil]
 ---
 Esta é uma frase que qualquer vegano já deve ter ouvido vezes sem conta: "*eu até acho que os veganos têm razão, mas não conseguiria ser vegano*."
 

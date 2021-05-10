@@ -2,6 +2,8 @@
 title: Porque é que os veganos estão sempre a dizer a toda a gente que são veganos?
 layout: post
 permalink: /porque-e-que-os-veganos-estao-sempre-a-dizer-a-toda-a-gente-que-sao-veganos/
+image: /assets/images/quinta_aguias_pavao.jpg
+tags: [veganos chatos, vegans chatos, convencer os outros a serem veganos]
 ---
 Antes de mais, convém esclarecer que isso não é bem verdade. Como em qualquer outro grupo, há veganos mais expansivos e veganos mais discretos. O mais provável é que já te tenhas cruzado com dezenas de veganos sem o saberes, precisamente porque não disseram nada ;)
 

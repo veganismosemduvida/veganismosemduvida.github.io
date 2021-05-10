@@ -3,6 +3,7 @@ title: Quando eu me tornar vegano, como vão reagir familiares, amigos e conheci
 layout: post
 permalink: /quando-eu-me-tornar-vegano-como-vao-reagir-familiares-amigos-e-conhecidos/
 image: /assets/images/quinta_aguias_ovelhas.jpg
+tags: [reação amigos veganismo, dificuldade transição veganismo, gozo, perguntas, piadas]
 ---
 Esta é, possivelmente, a parte mais difícil da transição para o veganismo, e por várias razões.
 

@@ -2,6 +2,8 @@
 title: Ao tornar-me vegano, preciso de ir a um nutricionista?
 layout: post
 permalink: /ao-tornar-me-vegano-preciso-de-ir-a-um-nutricionista/
+image: /assets/images/vitalii-pavlyshynets-kcRFW-Hje8Y-unsplash.jpg
+tags: [comda vegan, comida vegana, comida vegetariana, nutricionista, nutrição]
 ---
 Como as autoridades de saúde de diversos países (incluindo Portugal) já [confirmaram](/a-dieta-100-vegetal-e-saudavel/), é perfeitamente possível obter proteína e todos os outros nutrientes necessários ao bom funcionamento do organismo a partir de alimentos de origem vegetal (à excepção da vitamina B12, que deve ser obtida a partir de alimentos fortificados ou suplementos) - mas é preciso saber onde encontrá-los.
 

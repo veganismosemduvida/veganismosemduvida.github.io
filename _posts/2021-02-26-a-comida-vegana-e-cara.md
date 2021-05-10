@@ -2,6 +2,8 @@
 title: A comida vegana é cara?
 layout: post
 permalink: /a-comida-vegana-e-cara/
+image: /assets/images/maria-lin-kim-8RaUEd8zD-U-unsplash.jpg
+tags: [comida vegana barata, comida vegan barata, refeições veganas baratas, refeições vegan baratas]
 ---
 
 Não :) A ideia de que a comida vegana é cara é um mito baseado na perceção incorreta de que os veganos consomem maioritariamente alimentos "exóticos", como abacate ou quinoa, ou processados, como Beyond Burgers. Na verdade, **a maioria dos alimentos que os veganos consomem são os mais baratos do supermercado: legumes, frutas, leguminosas e cereais**. Alguns produtos, como tofu, algas ou frutos secos, podem ser um pouco mais caros, além de que produtos como leites, gelados ou iogurtes vegetais tendem a ser mais caros do que os equivalentes de origem animal, mas no final das contas é perfeitamente possível (e até provável) ter uma dieta 100% vegetal a um custo semelhante ou inferior ao da dieta convencional.

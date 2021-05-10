@@ -2,6 +2,8 @@
 title: Faz sentido comer vegano em casa mas não em restaurantes?
 layout: post
 permalink: /faz-sentido-comer-vegano-em-casa-mas-nao-em-restaurantes/
+image: /assets/images/amor_hortela_enrolado.jpg
+tags: [transição para o veganismo, deixar de comer carne, restaurantes, veg-friendly, baby steps]
 ---
 Algumas pessoas fazem a transição para o veganismo com facilidade em casa, onde podem escolher os ingredientes e cozinhar o que quiserem, mas continuam por algum tempo a comer produtos de origem animal fora de casa, sobretudo se tiverem de fazer refeições de trabalho ou com amigos em restaurantes sem opções veganas.
 

@@ -2,6 +2,8 @@
 title: Qual a diferença entre um vegano e um vegetariano?
 layout: post
 permalink: /qual-a-diferenca-entre-um-vegano-e-um-vegetariano/
+image: /assets/images/ramiro-martinez-BVfMGKVI7ck-unsplash.jpg
+tags: [vegetarianismo, produtos de origem animal, queijo, leite, ovos, filosofia de vida]
 ---
 O termo "vegetariano" surgiu no século XIX, enquanto o termo "vegano" (ou pelo menos a sua versão original - *vegan*, em inglês) surgiu na década de 40 do século XX, quando um grupo de dissidentes da associação The Vegetarian Society, do Reino Unido, decidiu criar uma nova organização para a promoção de uma filosofia de vida totalmente livre de produtos de origem animal, não apenas de carne e peixe: The Vegan Society.
 

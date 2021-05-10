@@ -7,6 +7,13 @@
     <title>{{page.title}} | {{site.name}}</title>
 
     {% seo %}
+    
+    {% if page.summary %}
+      <meta name="description" content="{{ page.summary | escape }}">
+    {% endif %}
+    {%if page.tags %}
+      <meta name="keywords" content="{{ page.tags | join: ', ' | escape }}"/>
+    {%endif %}
 
     <link rel="shortcut icon" type="image/x-icon" href="{{site.baseurl}}/{{site.favicon}}">
 
@@ -39,16 +46,14 @@
     <div class="container">
         <a class="navbar-brand" href="{{ site.baseurl }}/index.html"><span class="site-title">{{site.name}}</span>
         <br /><div class="subtitle">{{site.description}}</div></a>
-        <div  float="right"><button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+        <!-- <div  float="right"><button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
-        </button></div>
-        <right>
-        <div class="navbar-collapse collapse ml-auto" id="navbarColor02" style="text-align:left">
-            <ul class="navbar-nav d-flex align-items-left">
+        </button></div> -->
+        <right style="text-align:right;">
+        <div class="navbar ml-auto" id="navbarColor02" style="text-align:right">
+            <ul class="navbar-nav align-items-right">
+               {% include search-lunr.html %}
                {% include menu-header.html %}
-            </ul>
-            <ul class="navbar-nav d-flex align-items-left">
-                {% include search-lunr.html %}
             </ul>
         </div>
         </right>

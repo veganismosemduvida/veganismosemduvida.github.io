@@ -1,6 +1,7 @@
 url: https://veganismosemduvida.com
-name: Veganismo, sem dúvida!
+name: Veganismo, sem&nbsp;dúvida!
 description: Um espaço sobre&nbsp;veganismo para&nbsp;veganos, futuros&nbsp;veganos&nbsp;e&nbsp;curiosos
 baseurl:
 exclude:
   - .jekyll-cache
+tags: [vegana, vegano, vegan, veganismo]

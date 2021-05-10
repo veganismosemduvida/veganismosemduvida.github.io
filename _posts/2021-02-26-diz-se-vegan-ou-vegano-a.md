@@ -2,7 +2,8 @@
 title: Diz-se vegan ou vegano/a?
 layout: post
 permalink: /diz-se-vegan-ou-vegano-a/
-
+image: /assets/images/quinta_aguias_coelhos_porquinhos_india.jpg
+tags: [vegana, vegano, vegan, palavra, termo, português]
 ---
 Tanto faz! Nós na [Vida Animal](https://www.vidanimal.org) preferimos “vegano/a” porque é o aportuguesamento natural da palavra inglesa _vegan_. Os nossos irmãos brasileiros também tendem a usar esse termo. Mas os meios de comunicação em Portugal, bem como a generalidade da população, parecem preferir “vegan”, e não vemos qualquer problema nisso.
 

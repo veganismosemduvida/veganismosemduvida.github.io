@@ -2,6 +2,8 @@
 title: A minha filha tornou-se vegana. E agora?
 layout: post
 permalink: /a-minha-filha-tornou-se-vegana-e-agora/
+image: /assets/images/tina-dawson-Aebcy1-zkVU-unsplash.jpg
+tags: [filha vegana, filha vegan, filho vegano, filho vegan, amigo vegano, amigo vegan, amiga vegana, amiga vegan, virou vegana, virou vegano, virou vegan, tornou-se vegana, tornou-se vegano, tornou-se vegan, deixou de comer carne]
 ---
 A filha do título é apenas um exemplo; se quem se tornou vegano/a foi a tua mãe, pai, irmã(o), amigo/a, namorado/a, vizinho/a, colega de trabalho&#8230; este texto é para ti :)
 

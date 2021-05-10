@@ -2,6 +2,8 @@
 title: Como aderir ao veganismo por tipo de produto?
 layout: post
 permalink: /como-aderir-ao-veganismo-por-tipo-de-produto/
+image: /assets/images/amor_hortela_mousse.jpg
+tags: [transição para o veganismo, deixar de comer carne, deixar de comer queijo, deixar de beber leite, baby steps]
 ---
 Ao decidir tornar-se vegano, há quem opte por eliminar os diferentes produtos animais da sua alimentação um de cada vez: normalmente começa-se pela carne vermelha, depois a branca, depois o peixe, os ovos, o leite&#8230; A ordem varia, mas na nossa experiência o último produto a eliminar tende a ser o queijo.
 

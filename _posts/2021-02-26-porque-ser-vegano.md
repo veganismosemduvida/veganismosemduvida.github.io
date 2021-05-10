@@ -2,6 +2,8 @@
 title: Porquê ser vegano?
 layout: post
 permalink: /porque-ser-vegano/
+image: /assets/images/quinta_aguias_porcas.jpg
+tags: [razões para ser vegano, argumentos a favor do veganismo, argumentos pró-veganismo, motivos para ser vegano, benefícios do veganismo]
 ---
 **Porque não devemos causar morte e sofrimento a seres sencientes sem necessidade**. É tão simples quanto isto.
 

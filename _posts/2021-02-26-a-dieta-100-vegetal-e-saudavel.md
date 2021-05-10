@@ -2,8 +2,10 @@
 title: A dieta 100% vegetal é saudável?
 layout: post
 permalink: /a-dieta-100-vegetal-e-saudavel/
-
+image: /assets/images/quinta_aguias_vegetais.png
+tags: [comida vegana saudável, comida vegan saudável, saúde, doenças, carências, vitaminas, proteína, nutrição]
 ---
+
 Sim! Podemos afirmá-lo peremptoriamente, pois quem o diz são as mais prestigiadas instituições de saúde e nutrição do mundo. Partilhamos abaixo algumas citações e links de documentos que o confirmam.
 
 <blockquote>

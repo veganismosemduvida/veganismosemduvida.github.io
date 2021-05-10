@@ -2,6 +2,8 @@
 title: "Qual o impacto ambiental dos produtos de origem animal?"
 layout: post
 permalink: /qual-o-impacto-ambiental-dos-produtos-de-origem-animal/
+image: /assets/images/pegada_leites.png
+tags: [indústria da carne, poluição, desflorestação, Amazónia, utilização dos solo, metano, efeito de estufa, mudanças climáticas, aquecimento global]
 ---
 A resposta a esta questão já não deve ser surpresa para a maioria das pessoas: o impacto ambiental dos produtos de origem animal é enorme, muito maior do que o da maioria dos alimentos de origem vegetal, e manifesta-se de diversas formas.
 

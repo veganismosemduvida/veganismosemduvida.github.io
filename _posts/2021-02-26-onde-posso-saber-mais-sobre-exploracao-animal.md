@@ -2,6 +2,8 @@
 title: Onde posso saber mais sobre exploração animal?
 layout: post
 permalink: /onde-posso-saber-mais-sobre-exploracao-animal/
+image: /assets/images/quinta_aguias_galinhas.jpg
+tags: [exploração animal, indústria da carne, indústria das peles, experimentação animal, crueldade, maus-tratos, libertação animal]
 ---
 
 

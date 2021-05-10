@@ -2,6 +2,8 @@
 title: Quero ser vegano! Por onde começo?
 layout: post
 permalink: /quero-ser-vegano-por-onde-comeco/
+image: /assets/images/quinta_aguias_perus.png
+tags: [quero ser vegana, quero ser vegano, quero ser vegan, como ser vegana, como ser vegano, como ser vegan, como me tornar vegana, como me tornar vegano, como me tornar vegan, transição para o veganismo, caminho para o veganismo, quero ser vegetariana, quero ser vegetariano, como ser vegetariana, como ser vegetariano, como parar de comer carne, como deixar de comer carne]
 ---
 Antes de mais, parabéns! Tomaste uma decisão maravilhosa para ti mesmo, para o planeta, as gerações futuras e, acima de tudo, os animais! <br><br>O primeiro passo é querer, por isso já estás no bom caminho ;) O segundo passo é informares-te, e é para isso que existem numerosos sites como este e outros, cujos links te vamos sugerindo entre as nossas respostas.
 

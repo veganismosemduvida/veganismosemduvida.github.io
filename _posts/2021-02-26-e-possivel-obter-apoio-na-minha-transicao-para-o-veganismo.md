@@ -2,6 +2,8 @@
 title: É possível obter apoio na minha transição para o veganismo?
 layout: post
 permalink: /e-possivel-obter-apoio-na-minha-transicao-para-o-veganismo/
+image: /assets/images/quinta_aguias_encontro.png
+tags: [comunidade vegana, comunidade vegan, apoio, ajuda, suporte, desafio, amigos vegan, amigos veganos]
 ---
 Sem dúvida! E de forma gratuita :)
 

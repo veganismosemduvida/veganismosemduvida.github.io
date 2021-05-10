@@ -2,6 +2,8 @@
 title: Além da alimentação, o que mais muda quando me torno vegano?
 layout: post
 permalink: /alem-da-alimentacao-o-que-mais-muda-quando-me-torno-vegano/
+image: /assets/images/quinta_aguias_patos.png
+tags: [peles, lã, circo, touradas, testes em animais, experimentação, medicamentos]
 ---
 Um vegano procura excluir, [dentro do possível e do praticável](/o-que-e-o-veganismo/), a exploração animal da sua vida. A mudança mais óbvia e impactante é na alimentação, que é um dos setores onde a exploração animal está mais presente, mas há muitas outras coisas que devemos ter em atenção.
 

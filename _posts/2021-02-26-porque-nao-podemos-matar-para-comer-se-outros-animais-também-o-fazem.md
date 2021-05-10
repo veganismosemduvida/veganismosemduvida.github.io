@@ -2,6 +2,8 @@
 title: Porque não podemos matar para comer, se outros animais também o fazem?
 layout: post
 permalink: /porque-nao-podemos-matar-para-comer-se-outros-animais-também-o-fazem/
+image: /assets/images/jeff-lemond-bwr9XpsYK98-unsplash.jpg
+tags: [cadeia alimentar, animais comem animais, leões comem animais, veganismo não é natural, veganismo é anti-natura, comer carne é natural]
 ---
 
 Este é um dos argumentos mais comuns contra o veganismo: os animais também se matam e comem uns aos outros. Porque não podem os humanos fazê-lo?

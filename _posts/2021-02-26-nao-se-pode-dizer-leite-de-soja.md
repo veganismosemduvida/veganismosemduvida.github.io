@@ -2,6 +2,8 @@
 title: 'Não se pode dizer &#8220;leite de soja&#8221;?'
 layout: post
 permalink: /nao-se-pode-dizer-leite-de-soja/
+image: /assets/images/leite_soja.jpg
+tags: [leite vegetal, leites vegetais, bebida vegetal, bebidas vegetais, leite de soja, bebida de soja, leite de aveia, bebida de aveia, leite de amêndoa, bebida de amêndoa, leite de arroz, bebida de arroz, proibição, rótulo, designação]
 ---
 
 Claro que pode :)

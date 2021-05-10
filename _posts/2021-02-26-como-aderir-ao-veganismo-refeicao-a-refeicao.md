@@ -2,6 +2,8 @@
 title: Como aderir ao veganismo refeição a refeição?
 layout: post
 permalink: /como-aderir-ao-veganismo-refeicao-a-refeicao/
+image: /assets/images/amor_hortela_seitan_nabicas.jpg
+tags: [transição para o veganismo, refeições veganas, segundas sem carne, baby steps]
 ---
 Uma forma bastante comum de aderir ao veganismo é ir veganizando cada refeição. Por exemplo, começar por fazer almoços veganos à Segunda, Quarta e Sexta; depois acrescentar a Terça e a Quinta; depois acrescentar alguns jantares; e assim por diante até que todas as refeições sejam veganas.
 

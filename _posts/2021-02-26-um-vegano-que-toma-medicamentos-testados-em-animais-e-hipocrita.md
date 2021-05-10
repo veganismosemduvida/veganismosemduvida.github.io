@@ -2,6 +2,8 @@
 title: Um vegano que toma medicamentos testados em animais é hipócrita?
 layout: post
 permalink: /um-vegano-que-toma-medicamentos-testados-em-animais-e-hipocrita/
+image: /assets/images/quinta_aguias_porquinho_india.png
+tags: [testes em animais, experimentação animal, veganos podem tomar remédios, vegans podem tomar remédios, veganos podem tomar medicamentos, vegans podem tomar medicamentos, testados em animais]
 ---
 Na nossa opinião, não. <br><br>Embora existam veganos que se recusam a tomar medicamentos por estes terem sido testados em animais, muitos outros (possivelmente a maioria, mas não temos dados que o afirmem, apenas a nossa experiência pessoal) optam por tomá-los quando necessário, tendo em conta que, neste momento, ainda não existem alternativas.
 

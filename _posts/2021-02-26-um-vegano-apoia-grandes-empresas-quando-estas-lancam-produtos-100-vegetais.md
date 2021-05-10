@@ -2,6 +2,8 @@
 title: 'Um vegano apoia grandes empresas quando estas lançam produtos 100% vegetais?'
 layout: post
 permalink: /um-vegano-apoia-grandes-empresas-quando-estas-lancam-produtos-100-vegetais/
+image: /assets/images/brad-switzer-kzloZDPHzeg-unsplash.jpg
+tags: [veganismo estratégico, veganismo pragmático, veganismo popular, veganismo político]
 ---
 Esta é uma grande discussão entre veganos; afinal, não somos um grupo monolítico que concorda em tudo. Concordamos que queremos acabar com a exploração dos animais, mas nem sempre concordamos sobre a melhor forma de lá chegar. Tratando-se de um objectivo tão ambicioso e ainda tão distante, é normal que as opiniões divirjam sobre qual o melhor caminho, e esta questão &#8211; apoiar ou não grandes empresas (que estão, na maioria das vezes, ligadas a uma série de práticas eticamente questionáveis) quando estas lançam produtos 100% vegetais e não testados em animais &#8211; está no cerne da discussão.
 

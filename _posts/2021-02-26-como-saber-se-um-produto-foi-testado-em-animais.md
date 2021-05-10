@@ -3,6 +3,7 @@ title: Como saber se um produto foi testado em animais?
 layout: post
 permalink: /como-saber-se-um-produto-foi-testado-em-animais/
 image: /assets/images/quinta_aguias_coelho.png
+tags: [testes em animais, experimentação animal, cruelty free, sem crueldade, livre de crueldade, medicamentos, cosméticos]
 ---
 Verdade seja dita &#8211; nem sempre é fácil. E por várias razões:
 

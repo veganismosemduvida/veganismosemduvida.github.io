@@ -2,6 +2,8 @@
 title: Como aderir ao veganismo de um dia para o outro?
 layout: post
 permalink: /como-aderir-ao-veganismo-de-um-dia-para-o-outro/
+image: /assets/images/amor_hortela_empadao.jpg
+tags: [vegana de um dia para o outro, vegano de um dia para o outro, vegan de um dia para o outro, transição para o veganismo]
 ---
 Muitas pessoas que se tornam veganas decidem fazê-lo de uma só vez; depois de terem consciência do enorme sofrimento associado a cada produto de origem animal, decidem deixar imediatamente de consumi-los. Em muitos casos, esses produtos passam a causar-lhes repulsa (nomeadamente aqueles em que a associação ao animal é mais óbvia, como a carne ou o peixe), pelo que preferem não consumir nem mesmo aqueles que já tenham em casa. Se é esse o teu caso, podes oferecer esses produtos para que não se desperdicem.
 

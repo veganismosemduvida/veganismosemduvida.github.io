@@ -2,6 +2,8 @@
 title: 'Porque não ser apenas vegetariano, se não matamos os animais para obter ovos e laticínios?'
 layout: post
 permalink: /porque-nao-ser-apenas-vegetariano-se-nao-matamos-os-animais-para-obter-ovos-e-laticinios/
+image: /assets/images/brianna_winter.jpg
+tags: [qual é o problema do leite, qual é o problema dos ovos, qual é o problema da lã, qual é o problema do mel, veganos bebem leite, veganos comem ovos, veganos comem mel, veganos usam lã, mel é vegano, indústria do leite, indústria dos ovos, crueldade, sofrimento, exploração animal]
 ---
 
 Como indicamos [aqui](/onde-posso-saber-mais-sobre-exploracao-animal), neste site não temos muito conteúdo a expor a crueldade a que são submetidos os animais nas várias indústrias que os exploram, pois julgamos que a maioria das pessoas tem uma noção mais ou menos concreta dessa realidade atroz. No entanto, quando falamos de produtos que não implicam diretamente a morte dos animais - sendo os ovos e os lacticínios os mais comuns desses produtos - vemos que há ainda muitos equívocos e falta de informação, já que muitas pessoas pensam que não há qualquer problema ético nessas indústrias, que os animais são "bem tratados" e vivem uma boa vida enquanto nos vão "oferecendo" aquilo que produzem. Infelizmente, essa perceção não poderia estar mais longe da realidade.

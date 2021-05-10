@@ -2,6 +2,8 @@
 title: Onde é que um vegano vai buscar a proteína? E o cálcio? E o ferro? E a vitamina B12?
 layout: post
 permalink: /onde-e-que-um-vegano-vai-buscar-a-proteina-e-o-calcio-e-o-ferro-e-a-vitamina-b12/
+image: /assets/images/quinta_aguias_gato_feijoes.jpg
+tags: [comida vegana saudável, comida vegan saudável, vitaminas, nutrição]
 ---
 A resposta a estas perguntas pode ser encontrada em diversas fontes, mantidas por nutricionistas e profissionais de saúde com as competências necessárias para abordarem o tema com propriedade. Consulta a questão [A dieta 100% vegetal é saudável?](/a-dieta-100-vegetal-e-saudavel/) para mais informações.
 

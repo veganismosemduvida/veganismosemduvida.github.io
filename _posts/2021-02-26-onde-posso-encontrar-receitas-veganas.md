@@ -2,6 +2,8 @@
 title: Onde posso encontrar receitas veganas?
 layout: post
 permalink: /onde-posso-encontrar-receitas-veganas/
+image: /assets/images/quinta_aguias_galo_livro_vegano.jpg
+tags: [receitas veganas, receitas vegan, pratos veganos, pratos vegan, ideias comida vegana, ideias comida vegan]
 ---
 
 Felizmente, já são muitos os recursos para quem procura receitas 100% vegetais! Deixamos abaixo algumas sugestões de sites, canais de YouTube e livros em português.

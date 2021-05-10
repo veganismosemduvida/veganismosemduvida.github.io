@@ -2,6 +2,8 @@
 title: Mas nem peixe?
 layout: post
 permalink: /mas-nem-peixe/
+image: /assets/images/will-turner-z5gwXaKYuF8-unsplash.jpg
+tags: [deixar de comer peixe, vegetariano come peixe, peixes sofrem, sofrimento dos peixes, pesca é cruel]
 ---
 
 Isso mesmo, nem peixe!
