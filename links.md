@@ -57,6 +57,10 @@ Se o vídeo começar sem legendas em português, clica na roda dentada no canto 
 * [Uma Vida Interligada](https://www.youtube.com/watch?v=eSWh9RLWpcg), uma curta-metragem documental da NonViolenceUnited.Org
 * [You Will Never Look at Your Life in the Same Way Again - Eye-Opening Speech!](https://www.youtube.com/watch?v=Z3u7hXpOm58), de Earthling Ed
 
+## Podcast
+
+* [Outras Mamas](https://medium.com/outras-mamas-podcast)
+
 # Não gratuitos
 
 ## Filmes
