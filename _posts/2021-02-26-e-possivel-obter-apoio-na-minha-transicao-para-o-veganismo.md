@@ -17,6 +17,8 @@ Para descobrires restaurantes, cafés e outros tipos de estabelecimentos veganos
 
 E, é claro, há sempre as redes sociais :) Pesquisa por &#8220;vegan&#8221; em qualquer rede social e encontrarás diversos grupos de pessoas que terão todo o gosto em acolher-te e apoiar-te. O [/r/vegan](https://www.reddit.com/r/vegan) e o [/r/PortugalVegan](https://www.reddit.com/r/PortugalVegan/) no Reddit são particularmente amigáveis.
 
+Mesmo que já sejas vegano, se procuras conhecer outros veganos em Portugal (e não só) os projetos acima são uma boa forma de o fazeres. Talvez possas mesmo voluntariar-te para ser uma das pessoas que ajuda e acompanha novos veganos :)
+
 ![[Foto de um encontro na Quinta das Águias]](/assets/images/quinta_aguias_encontro.png "Encontro na Quinta das Águias")
 
 <div class="img-caption">Foto cedida pela <a href="https://www.facebook.com/associacaoquintadasaguias/photos/2762595000499587">Quinta das Águias</a>.</div>

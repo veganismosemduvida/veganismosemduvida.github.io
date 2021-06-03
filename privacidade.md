@@ -17,7 +17,7 @@ Os cookies podem ter vários propósitos diferentes: contar o número de visitan
 
 # Que cookies são utilizados neste site?
 
-Neste site utilizamos apenas cookies do [Google Analytics](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage), com o objetivo de obter estatísticas sobre as visitas a cada uma das páginas. Não recolhemos, guardamos ou partilhamos com terceiros quaisquer outras informações sobre os nossos visitantes.
+Neste site utilizamos apenas cookies do Google, com o objetivo de obter estatísticas sobre as visitas a cada uma das páginas. Não recolhemos, guardamos ou partilhamos com terceiros quaisquer outras informações sobre os nossos visitantes.
 
 Os nossos cookies têm a duração de 31 dias, ao fim dos quais serão automaticamente apagados e voltará a aparecer o pedido de autorização quando visitares o site; caso voltes a aceitar, serão transferidos novos cookies, com a mesma duração.
 
