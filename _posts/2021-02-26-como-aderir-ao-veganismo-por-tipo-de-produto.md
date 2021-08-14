@@ -15,4 +15,4 @@ Devemos lembrar-nos sempre que o importante são os animais; cada dia, cada sema
 
 ![[Foto de mousse vegana do Amor e Hortelã]](/assets/images/amor_hortela_mousse.jpg "Mousse de chocolate vegana do Amor e Hortelã")
 
-<div class="img-caption">Mousse de chocolate vegana do <a href="https://unsplash.com/@morsha?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Amor e Hortelã</a>.</div>
+<div class="img-caption">Mousse de chocolate vegana do <a href="https://www.amorehortela.pt/2016/07/mousse-de-chocolate-com-natas.html">Amor e Hortelã</a>.</div>
