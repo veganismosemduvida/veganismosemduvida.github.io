@@ -959,3 +959,7 @@ a.quero:hover {
   width:200px;
   cursor:pointer;
 }
+
+.padding-left {
+  padding-left: 1em;
+}
