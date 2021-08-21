@@ -17,6 +17,7 @@ Ainda assim, é nossa convicção que quem come ou usa os animais e/ou os produt
 
 * [Domínio](https://www.youtube.com/watch?v=TxRlPC9VNGk), documentário de Shaun Monson narrado por Joaquin Phoenix, Rooney Mara, Sadie Sink, Sia e Kat Von D (legendado em português)
 * [Terráqueos](https://www.youtube.com/watch?v=_GGBFv0zw18), documentário de Shaun Monson narrado por Joaquin Phoenix (legendado em português)
+* [A Carne é Fraca](https://www.youtube.com/watch?v=rrFsGTw5bCw), documentário do Instituto Nina Rosa
 * [Land of Hope and Glory](https://www.youtube.com/watch?v=dvtVkNofcq8), documentário de Luna Woods (legendado em português)
 * [Da Fazenda Ao Frigorífico](https://www.youtube.com/watch?v=u516i94mIaA), vídeo da Mercy for Animals (dobrado em português)
 * [A indústria de seres vivos: Um retrato da violência nos matadouros](https://www.youtube.com/watch?v=_tlABBcnVFM)
