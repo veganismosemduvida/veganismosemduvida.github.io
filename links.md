@@ -29,8 +29,9 @@ Abaixo listamos outros links que podem ser interessantes para quem quer saber ma
 # Gratuitos
 
 ## Sites
+* [Achados Veganos - Motor de pesquisa](https://achadosveganos.vspot.pt)
 * [Associação Vegetariana Portuguesa](https://www.avp.org.pt)
-* [Centro Vegetariano](https://www.centrovegetariano.org/)
+* [Centro Vegetariano](https://www.centrovegetariano.org)
 * [Muda o Mundo](https://www.mudaomundo.org)
 * [Sociedade Vegan](https://sociedadevegan.com)
 * [ANDA Agência de Notícias de Direitos Animais](https://www.anda.jor.br)
