@@ -46,7 +46,7 @@ Como a nossa cultura alimentar é muito centrada nos alimentos de origem animal,
 
 * Livro [Saúde e Fitness Vegan](https://www.primebooks.pt/produto/saude-fitness-vegan), de Rafael Pinto com revisão científica do médico Francisco Regel e do nutricionista desportivo Darchite Kantelal.
 
-* Site [O Vegetariano](http://ovegetariano.pt), de Sandra Gomes Silva, nutricionista.
+* Site [O Vegetariano](http://ovegetariano.pt), da nutricionista Sandra Gomes Silva.
 
 * [Cuidados nutricionais a ter numa alimentação vegetariana](https://veggiekit.pt/cuidados-nutricionais-a-ter-numa-alimentacao-vegetariana/), por Rafaela Honório, nutricionista parceira da Associação Vegetariana Portuguesa.
 

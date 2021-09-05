@@ -66,6 +66,7 @@ Se o vídeo começar sem legendas em português, clica na roda dentada no canto 
 
 ## Filmes
 * [Cowspiracy - O Segredo da Sustentabilidade](https://www.netflix.com/pt/title/80033772)
+* [Gunda](https://www.gunda.movie)
 * [Orca - Fúria Animal](https://www.netflix.com/pt/title/70267802)
 * [Seaspiracy: Pesca Insustentável](https://www.netflix.com/pt/title/81014008)
 * [The Game Changers](https://www.netflix.com/pt/title/81157840)
