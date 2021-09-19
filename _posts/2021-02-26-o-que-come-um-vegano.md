@@ -5,7 +5,9 @@ permalink: /o-que-come-um-vegano/
 image: /assets/images/comida/feijao.jpg
 tags: [o que come um vegano, o que comem os veganos, o que come um vegan, comida vegan, comida vegana, comida vegetal, alimentos veganos, ingredientes veganos]
 ---
-Literalmente todos os alimentos que não resultam da exploração dos animais! Vê só a diversidade de alimentos de origem vegetal a que temos acesso em Portugal - e é provável que nos tenhamos esquecido de alguma coisa ;)
+Literalmente todos os alimentos que não resultam da exploração dos animais, bem como tudo o que possa ser produzido a partir desses alimentos!
+
+Vê só a diversidade de ingredientes a que temos acesso em Portugal - e é provável que nos tenhamos esquecido de alguma coisa ;)
 
 <div style="display:flex;flex-wrap:wrap;justify-content:space-evenly">
 <a href="https://www.google.pt/search?q=receitas+veganas+com+abacate" class="comida"><div style="width:150px;height:150px;margin:10px;background-image:url('../assets/images/comida/abacate.jpg');background-size: contain"><span style="background-color:#fff"><b>&nbsp;Abacate&nbsp;</b></span></div></a>

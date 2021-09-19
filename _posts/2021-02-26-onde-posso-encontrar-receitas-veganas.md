@@ -33,7 +33,7 @@ Felizmente, já são muitos os recursos para quem procura receitas 100% vegetais
 # Livros
 
 * Série [Cozinha Vegetariana](http://gabrielaoliveira.weebly.com/livros.html), de Gabriela Oliveira
-* [Como Não Morrer - Livro de Receitas](https://www.leyaonline.com/pt/livros/saude/como-nao-morrer-livro-de-receitas/), de Michael Greger
+* [Como Não Morrer - Livro de Receitas](https://www.leyaonline.com/pt/livros/saude/como-nao-morrer-livro-de-receitas/), do Dr. Michael Greger
 * [Cozinha 100% Vegetal e Saudável](https://nascente.pt/livros/cozinha-100-vegetal-e-saudavel), de Carina Barbosa
 * [Deliciosamente Vegan](https://www.gostodeler.pt/libros/deliciosamente-vegan/MPT-001346), de Filipa Ruas
 * [Receitas com Paixão](https://www.arteplural.pt/produtos/ficha/receitas-com-paixao/19596100), de Márcia Soares Gonçalves
