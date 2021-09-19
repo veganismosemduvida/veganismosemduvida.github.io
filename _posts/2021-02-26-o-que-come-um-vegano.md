@@ -2,6 +2,8 @@
 title: O que come um vegano?
 layout: post
 permalink: /o-que-come-um-vegano/
+image: /assets/images/comida/feijao.jpg
+tags: [o que come um vegano, o que comem os veganos, o que come um vegan, comida vegan, comida vegana, comida vegetal, alimentos veganos, ingredientes veganos]
 ---
 Literalmente todos os alimentos que não resultam da exploração dos animais! Vê só a diversidade de alimentos de origem vegetal a que temos acesso em Portugal - e é provável que nos tenhamos esquecido de alguma coisa ;)
 

@@ -3,7 +3,7 @@ title: Já sou vegano. O que mais posso fazer?
 layout: post
 permalink: /ja-sou-vegano-o-que-mais-posso-fazer/
 image: /assets/images/quinta_aguias_ganso_cantor.png
-tags: [já sou vegana o que mais posso fazer, como ajudar os animais, como contribuir para um mundo melhor, como combater a exploração animal, como lutar pelos animais, já sou vegano o que fazer, já sou vegana o que fazer, já sou vegano como ajudar mais, já sou vegana como ajudar mais]
+tags: [já sou vegana o que mais posso fazer, como ajudar os animais, como contribuir para um mundo melhor, como combater a exploração animal, como lutar pelos animais, já sou vegano o que fazer, já sou vegana o que fazer, já sou vegano como ajudar mais, já sou vegana como ajudar mais, ativismo vegano, ativismo pelos animais, defender os animais, ajudar os animais, criar um mundo vegano, contribuir para um mundo vegano, apoiar o veganismo, fazer crescer o veganismo, promover o veganismo, promoção do veganismo]
 ---
 Se já és vegano e queres fazer mais para construir um mundo sem exploração animal, tens um universo de opções! Começa por pensar nas tuas mais-valias, nos teus talentos, e em como podes utilizá-los em benefício dos animais:
 
