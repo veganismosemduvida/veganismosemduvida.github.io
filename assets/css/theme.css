@@ -963,3 +963,9 @@ a.quero:hover {
 .padding-left {
   padding-left: 1em;
 }
+
+a.comida, a.comida:hover {
+  text-decoration:none;
+  background-color:none;
+  color: #222;
+}

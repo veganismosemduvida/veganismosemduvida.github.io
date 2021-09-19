@@ -7,13 +7,13 @@ tags: [vegana de um dia para o outro, vegano de um dia para o outro, vegan de um
 ---
 Não há uma forma certa ou errada de aderir ao veganismo; cada um deve fazê-lo da forma que seja mais confortável e mais sustentável para si. Mencionamos abaixo alguns dos métodos mais comuns, mas cada pessoa pode e deve trilhar o seu próprio caminho. O importante, neste caso, é o destino.
 
-Seja qual for a opção escolhida, provavelmente não será boa ideia passar diretamente de uma dieta convencional para aquilo que muitos meios de comunicação confundem com o veganismo: uma dieta ultra-saudável, _light_, biológica, orgânica, _raw_ e outros adjetivos do género. Um corte tão radical com aquilo a que estamos habituados poderá causar uma sensação de privação, de sacrifício, que dificultará o percurso. E o veganismo [não tem de acarretar privação nem sacrifício](/a-comida-vegana-e-desinteressante-e-sem-sabor/).
+Seja qual for a opção escolhida, talvez não seja boa ideia passar diretamente de uma dieta convencional para aquilo que muitos meios de comunicação confundem com o veganismo: uma dieta ultra-saudável, _light_, biológica, orgânica, _raw_ e outros adjetivos do género. Um corte tão radical com aquilo a que estamos habituados poderá causar uma sensação de privação, de sacrifício, que dificultará o percurso. E o veganismo [não tem de acarretar privação nem sacrifício](/a-comida-vegana-e-desinteressante-e-sem-sabor/).
 
-No início, o mais fácil será focarmo-nos em ingredientes vegetais que já conhecemos e de que gostamos (spoiler alert: feijões e grãos passarão a ser os teus melhores amigos ;)) e introduzir alguns elementos que substituam os produtos de origem animal, seja a nível nutricional (mais informação [aqui](/a-dieta-100-vegetal-e-saudavel/#links)), funcional ou de paladar. Experimenta, por exemplo, "veganizar" alguns dos teus pratos favoritos! Durante um período de transição, é reconfortante poder contar com aquilo que nos é familiar.
+No início, o mais fácil será provavelmente focarmo-nos em ingredientes vegetais que já conhecemos e de que gostamos (spoiler alert: feijões e grãos passarão a ser os teus melhores amigos ;)) e introduzir alguns elementos que substituam os produtos de origem animal, seja a nível nutricional (mais informação [aqui](/a-dieta-100-vegetal-e-saudavel/#links)), funcional ou de paladar. Experimenta, por exemplo, "veganizar" alguns dos teus pratos favoritos! Durante um período de transição, é reconfortante poder contar com aquilo que nos é familiar.
 
 Se calhar no início não saberás cozinhar muito bem os novos ingredientes, ou vais experimentar alguns de que não vais gostar, mas não deixes que isso te desanime: procura dicas de preparação na Internet, novas [receitas](/onde-posso-encontrar-receitas-veganas/), marcas diferentes; certamente acabarás por encontrar soluções que te agradem. 
 
-E se no futuro quiseres ir introduzindo alimentos mais "exóticos" ou passar a cozinhar e comer de forma ainda mais saudável, será bem mais simples!
+E se no futuro quiseres introduzir alimentos mais "exóticos" ou passar a cozinhar e comer de forma ainda mais saudável, será bem mais simples!
 
 # De um dia para o outro
 
