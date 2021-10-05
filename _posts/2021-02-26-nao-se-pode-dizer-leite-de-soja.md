@@ -8,7 +8,7 @@ tags: [leite vegetal, leites vegetais, bebida vegetal, bebidas vegetais, leite d
 
 Claro que pode :)
 
-A rotulagem de produtos tem de obedecer à legislação, mas as pessoas não estão obrigadas a seguir esses critérios na sua vida quotidiana e podem referir-se a esses mesmos produtos como bem entenderem. E se optarem por dizer "leite de soja" a semântica estará do seu lado, já que o dicionário da Priberam lista o seguinte como um dos possíveis significados da palavra "leite":
+A rotulagem de produtos tem de obedecer à legislação, mas as pessoas não estão obrigadas a seguir esses critérios na sua vida quotidiana e podem referir-se a esses mesmos produtos como entenderem. E se optarem por dizer "leite de soja" a semântica estará do seu lado, já que o dicionário da Priberam lista o seguinte como um dos possíveis significados da palavra "leite":
 
 <blockquote class="wp-block-quote is-style-default">
   <p>
