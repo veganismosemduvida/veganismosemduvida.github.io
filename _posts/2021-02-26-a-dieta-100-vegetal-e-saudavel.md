@@ -50,7 +50,5 @@ Como a nossa cultura alimentar é muito centrada nos alimentos de origem animal,
 
 * [Cuidados nutricionais a ter numa alimentação vegetariana](https://veggiekit.pt/cuidados-nutricionais-a-ter-numa-alimentacao-vegetariana/), por Rafaela Honório, nutricionista parceira da Associação Vegetariana Portuguesa.
 
-* [Instagram de Laura Teixeira](https://www.instagram.com/lauramocellinteixeira), médica brasileira especialista em nutrição.
-
 ![[Foto de frutas e legumes da Quinta das Águias]](/assets/images/quinta_aguias_vegetais.png "Frutas e legumes da Quinta das Águias")
 <div class="img-caption">Foto cedida pela <a href="https://www.facebook.com/associacaoquintadasaguias/photos/2578403615585394">Quinta das Águias</a>.</div>
