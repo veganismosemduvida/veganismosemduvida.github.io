@@ -1,6 +1,7 @@
 ---
 title: Sobre o site
 layout: page
+permalink: "/sobre"
 ---
 Este site foi criado pela [Associação Vida Animal](https://www.vidanimal.org) com o objetivo de responder às questões que surgem com mais frequência quando se fala de veganismo. Pretendemos desconstruir a ideia de que ser vegano é estranho e só determinado "tipo de pessoa" é que se torna vegana, pois não corresponde à verdade. O veganismo nada mais é do que a tentativa de levar uma vida que cause o mínimo de sofrimento possível aos animais, pelo que **qualquer pessoa que concorde que fazer sofrer um animal é mau e deve ser evitado está alinhada com a filosofia vegana**; depois é uma questão de refletir nos seus comportamentos e escolhas aquilo em que acredita.
 
@@ -10,9 +11,9 @@ Devemos salvaguardar que, naturalmente, não falamos por todos os veganos. Há v
 
 Se quiseres entrar em contato connosco, podes escrever para veganismo<span class="display-none">invisivel</span>sem<span class="display-none">invisivel</span>duvida@gmail.com.
 
-### Copyright {#copyright}
+## Copyright {#copyright}
 
-O conteúdo escrito deste site, inteiramente da autoria da [Associação Vida Animal](https://www.vidanimal.org) exceto indicação explícita em contrário, é partilhado sob a licença [Atribuição 4.0 Internacional (CC BY)](https://creativecommons.org/licenses/by/4.0/deed.pt) da Creative Commons, o que significa que pode ser copiado, redistribuído ou adaptado em qualquer suporte ou formato e para qualquer fim, desde que acompanhado do devido crédito.
+O conteúdo escrito deste site, inteiramente da autoria da Associação Vida Animal exceto indicação explícita em contrário, é partilhado sob a licença [Atribuição 4.0 Internacional (CC BY)](https://creativecommons.org/licenses/by/4.0/deed.pt) da Creative Commons, o que significa que pode ser copiado, redistribuído ou adaptado em qualquer suporte ou formato e para qualquer fim, desde que acompanhado do devido crédito.
 
 Agradecemos ao nosso projeto parceiro [Amor e Hortelã](https://www.amorehortela.pt) e aos nossos amigos da [Quinta das Águias](http://www.quintadasaguias.org) a cedência de fotografias. Foram ainda utilizadas algumas imagens do [Unsplash](https://unsplash.com).
 

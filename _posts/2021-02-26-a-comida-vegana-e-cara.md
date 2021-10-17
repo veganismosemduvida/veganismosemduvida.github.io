@@ -24,11 +24,11 @@ Temos assim um total de **2.26€**. Uma refeição nutritiva para duas pessoas,
 
 Este é apenas um exemplo de como a comida vegana não é - ou não tem de ser - cara. É claro que podemos optar por produtos caros se assim quisermos, mas o mesmo poderá ser dito de quem come carne. A realidade é que é muito fácil ter uma dieta 100% vegetal nutricionalmente equilibrada sem que isso pese no bolso - pelo contrário, podes até mesmo começar a poupar uns trocos.
 
-Recomendamos também o livro [Cozinha Vegetariana para quem quer poupar](https://www.arteplural.pt/produtos/ficha/cozinha-vegetariana-para-quem-quer-poupar/15705794), da Gabriela Oliveira, bem como os vídeos [Comendo um dia inteiro com apenas 3€](https://www.youtube.com/watch?v=V2y-Yx8KMlw) e [Refeições veganas altas em proteína e baratas](https://www.youtube.com/watch?v=ogk0r-NY-90), do Rafael Pinto.
+Recomendamos também o livro [Cozinha Vegetariana para quem quer poupar](https://www.arteplural.pt/produtos/ficha/cozinha-vegetariana-para-quem-quer-poupar/15705794), da Gabriela Oliveira, bem como os vídeos [Comendo um dia inteiro com apenas 3€](https://www.youtube.com/watch?v=V2y-Yx8KMlw&cc_load_policy=1&cc_lang_pref=pt) e [Refeições veganas altas em proteína e baratas](https://www.youtube.com/watch?v=ogk0r-NY-90&cc_load_policy=1&cc_lang_pref=pt), do Rafael Pinto.
 
 E sugerimos que faças tu mesmo esse exercício: consulta [receitas veganas](/onde-posso-encontrar-receitas-veganas/) e procura os preços dos ingredientes. Ou pensa nas tuas receitas favoritas e em quanto custaria veganizá-las - por exemplo, usar soja granulada em vez de carne picada numa bolonhesa, ou fazer alho francês à brás em vez de bacalhau. É provável que te surpreendas :)
 
-![[Foto de sacos de compras]](/assets/images/maria-lin-kim-8RaUEd8zD-U-unsplash.jpg "Sacos de compras")
+![[Foto de sacos de compras cheios de fruta, legumes e pão]](/assets/images/maria-lin-kim-8RaUEd8zD-U-unsplash.jpg "Sacos de compras")
 
 <div class="img-caption">Foto de <a href="https://unsplash.com/@mrsmaria?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Maria Lin Kim</a> no <a href="https://unsplash.com">Unsplash</a>.</div>
 

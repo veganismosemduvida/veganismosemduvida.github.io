@@ -13,7 +13,7 @@ Há três principais métricas habitualmente usadas para comparar o impacto ambi
 
 Produzir 100g de proteína de carne de vaca gera quase 50kg de gases com efeito de estufa, enquanto a maioria dos produtos de origem vegetal gera abaixo de 3kg, com algumas das principais fontes de proteína numa dieta à base de plantas, como leguminosas (designadas no gráfico como "other [pulses](https://www.ibrafe.org/o-que-sao-pulses)") e frutos secos, a gerarem abaixo de 1kg.
 
-##### Emissões de gases com efeito de estufa por 100 gramas de proteína {#graficogases}
+## Emissões de gases com efeito de estufa por 100 gramas de proteína {#graficogases}
 
 <iframe src="https://ourworldindata.org/grapher/ghg-per-protein-poore" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -21,7 +21,7 @@ Produzir 100g de proteína de carne de vaca gera quase 50kg de gases com efeito 
 
 Neste particular, o queijo é o alimento mais problemático, com os frutos secos em segundo lugar. Ainda assim, vemos que a produção de camarão, leite, peixe, várias carnes - de porco, vaca, cordeiro e aves - e ovos consome bastante mais água do que as principais fontes vegetais de proteína: leguminosas e tofu.
 
-##### Consumo de água doce por 100 gramas de proteína {#graficoagua}
+## Consumo de água doce por 100 gramas de proteína {#graficoagua}
 
 <iframe src="https://ourworldindata.org/grapher/water-per-protein-poore" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -29,7 +29,7 @@ Neste particular, o queijo é o alimento mais problemático, com os frutos secos
 
 A quantidade de terra necessária para produzir carne de vaca ou cordeiro chega a ser dezenas de vezes superior à necessária para produzir a mesma quantidade de proteína de leguminosas ou grãos - e sobretudo de tofu. São necessários 163,8m<sup>2</sup> de terra para produzir 100g de proteína de carne de vaca, mas apenas 2,2m<sup>2</sup> para produzir 100g de proteína de tofu.
 
-##### Utilização do solo por 100 gramas de proteína {#graficosolo}
+## Utilização do solo por 100 gramas de proteína {#graficosolo}
 
 <iframe src="https://ourworldindata.org/grapher/land-use-protein-poore" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -41,7 +41,7 @@ Também neste critério os alimentos de origem animal são muito mais problemát
 
 Tal como nos outros gráficos, alimentos essenciais a uma alimentação vegetal - trigo, milho, tofu, ervilhas - são aqueles que menos contribuem para este tipo de poluição.
 
-##### Emissões eutrofizantes por 100 gramas de proteína {#graficoeutrofizacao}
+## Emissões eutrofizantes por 100 gramas de proteína {#graficoeutrofizacao}
 
 <iframe src="https://ourworldindata.org/grapher/eutrophying-emissions-protein" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -68,7 +68,7 @@ Muitas destas questões são resolvidas com a substituição da pesca pela aquac
 
 É hoje bastante claro que a produção de alimentos de origem animal tem uma pegada ambiental muito maior do que a produção de alimentos de origem vegetal. Em jeito de resumo, veja-se o seguinte gráfico retirado de um [artigo da BBC](https://www.bbc.com/news/science-environment-46654042), que compara as emissões, utilização do solo e consumo de água do leite de vaca com leites de arroz, soja, aveia e amêndoa:
 
-<center><img src="/assets/images/pegada_leites.png" title="Gráfico comparativo da pegada ambiental de diferentes tipos de leite" alt="Gráfico comparativo da pegada ambiental de diferentes tipos de leite" style="border:1px grey solid;padding:3%"></center>
+<center><img src="/assets/images/pegada_leites.png" title="A pegada ambiental de diferentes tipos de leite" alt="Gráfico comparativo da pegada ambiental de diferentes tipos de leite" style="border:1px grey solid;padding:3%"></center>
 
 <br />Por essa razão, é imperativo que todos aqueles que se preocupam com o ambiente abandonem (ou pelo menos reduzam significativamente) o consumo de carne e outros produtos de origem animal. Nas palavras de um especialista:
 

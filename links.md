@@ -1,6 +1,7 @@
 ---
 title: Links
 layout: page
+permalink: /links/
 ---
 
 Links externos sobre temas específicos podem ser encontrados em diferentes artigos, em particular os seguintes:
@@ -47,16 +48,16 @@ Abaixo listamos outros links que podem ser interessantes para quem quer saber ma
 
 Se o vídeo começar sem legendas em português, clica na roda dentada no canto inferior direito para ativá-las.
 
-* [Comer Animais - Certo ou Errado?](https://www.youtube.com/watch?v=bUTcXSX2BKc), uma palestra da Vida Animal
-* [A melhor palestra que você irá ouvir na sua vida](https://www.youtube.com/watch?v=8bH-doHSY_o), de Gary Yourofsky
-* [Luiz Antonio - A argumentação para não comer polvo](https://www.youtube.com/watch?v=NX4O6smZrLE)
-* [H.O.P.E. What You Eat Matters](https://www.youtube.com/watch?v=FprMvJYnD44), um documentário de Nina Messinger
-* [O Rebanho](https://www.youtube.com/watch?v=_FKEA_1RRUg), uma curta-metragem de Melanie Light
-* [The Food Matrix - 101 Reasons to Go Vegan](https://www.youtube.com/watch?v=YnQb58BoBQw), uma palestra de James Wildman
-* [The Meatrix](https://www.youtube.com/watch?v=8069oD3vGBU), uma curta-metragem de animação da GRACE Communications Foundation
-* [Time to Decide](https://www.youtube.com/watch?v=BYnnuXlqdGQ), uma curta-metragem da Compassion in World Farming 
-* [Uma Vida Interligada](https://www.youtube.com/watch?v=eSWh9RLWpcg), uma curta-metragem documental da NonViolenceUnited.Org
-* [You Will Never Look at Your Life in the Same Way Again - Eye-Opening Speech!](https://www.youtube.com/watch?v=Z3u7hXpOm58), de Earthling Ed
+* [Comer Animais - Certo ou Errado?](https://www.youtube.com/watch?v=bUTcXSX2BKc&cc_load_policy=1&cc_lang_pref=pt), uma palestra da Vida Animal
+* [A melhor palestra que você irá ouvir na sua vida](https://www.youtube.com/watch?v=8bH-doHSY_o&cc_load_policy=1&cc_lang_pref=pt), de Gary Yourofsky
+* [Luiz Antonio - A argumentação para não comer polvo](https://www.youtube.com/watch?v=NX4O6smZrLE&cc_load_policy=1&cc_lang_pref=pt)
+* [H.O.P.E. What You Eat Matters](https://www.youtube.com/watch?v=FprMvJYnD44&cc_load_policy=1&cc_lang_pref=pt), um documentário de Nina Messinger
+* [O Rebanho](https://www.youtube.com/watch?v=_FKEA_1RRUg&cc_load_policy=1&cc_lang_pref=pt), uma curta-metragem de Melanie Light
+* [The Food Matrix - 101 Reasons to Go Vegan](https://www.youtube.com/watch?v=YnQb58BoBQw&cc_load_policy=1&cc_lang_pref=pt), uma palestra de James Wildman
+* [The Meatrix](https://www.youtube.com/watch?v=8069oD3vGBU&cc_load_policy=1&cc_lang_pref=pt), uma curta-metragem de animação da GRACE Communications Foundation
+* [Time to Decide](https://www.youtube.com/watch?v=BYnnuXlqdGQ&cc_load_policy=1&cc_lang_pref=pt), uma curta-metragem da Compassion in World Farming 
+* [Uma Vida Interligada](https://www.youtube.com/watch?v=eSWh9RLWpcg&cc_load_policy=1&cc_lang_pref=pt), uma curta-metragem documental da NonViolenceUnited.Org
+* [You Will Never Look at Your Life in the Same Way Again - Eye-Opening Speech!](https://www.youtube.com/watch?v=Z3u7hXpOm58&cc_load_policy=1&cc_lang_pref=pt), de Earthling Ed
 
 ## Podcast
 

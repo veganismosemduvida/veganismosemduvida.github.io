@@ -5,7 +5,7 @@ permalink: /a-minha-filha-tornou-se-vegana-e-agora/
 image: /assets/images/tina-dawson-Aebcy1-zkVU-unsplash.jpg
 tags: [filha vegana, filha vegan, filho vegano, filho vegan, amigo vegano, amigo vegan, amiga vegana, amiga vegan, virou vegana, virou vegano, virou vegan, tornou-se vegana, tornou-se vegano, tornou-se vegan, deixou de comer carne, namorada vegana, namorado vegano, esposa vegana, marido vegano, colega vegano, colega vegana]
 ---
-A filha do título é apenas um exemplo; se quem se tornou vegano/a foi a tua mãe, pai, irmã(o), amigo/a, namorado/a, vizinho/a, colega de trabalho&#8230; este texto é para ti :)
+A filha do título é apenas um exemplo; se quem se tornou vegano/a foi o teu filho, irmã(o), amigo/a, namorado/a, mãe, pai, vizinho/a, colega de trabalho... este texto é para ti :)
 
 Quando uma pessoa próxima de nós se torna vegana, isso normalmente significa que teve contacto com informação (em conversas com amigos, em documentários ou livros, pesquisando na Internet&#8230;) sobre a forma como os animais são explorados e mortos sem qualquer necessidade na indústria alimentar, pensou sobre o assunto e decidiu que não queria continuar a contribuir para essa exploração. Embora o anúncio possa parecer repentino, o mais provável é que a pessoa já estivesse a refletir e/ou a investigar sobre o assunto há muito tempo, já que estava a questionar (e, no final, a recusar) algo que toda a sua vida considerou normal &#8211; e que a maioria das pessoas ainda considera.
 

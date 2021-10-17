@@ -1,6 +1,7 @@
 ---
 title: Privacidade
 layout: page
+permalink: /privacidade/
 sitemap:
   exclude: 'yes'
 ---

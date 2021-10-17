@@ -42,7 +42,7 @@ Como a nossa cultura alimentar é muito centrada nos alimentos de origem animal,
 
 * [Manual de Alimentação Vegetariana em Idade Escolar](https://nutrimento.pt/activeapp/wp-content/uploads/2016/04/Alimenta%c3%a7%c3%a3o-Vegetariana-em-Idade-Escolar-.pdf) da Direção-Geral da Saúde.
 
-* [Canal de YouTube](https://www.youtube.com/channel/UCddn8dUxYdgJz3Qr5mjADtA) do projeto nutritionfacts.org, do médico norte-americano Michael Greger, onde uma boa parte dos vídeos tem legendas em português (recomendamos [este](https://www.youtube.com/watch?v=30gEiweaAVQ) para começar). O Dr. Greger tem também vários livros editados, dois dos quais foram já publicados em Portugal: [Como Não Morrer](http://luadepapel.pt/pt/saude/como-nao-morrer/) e [Como Não Fazer Dieta](http://luadepapel.pt/pt/saude/como-nao-fazer-dieta/).
+* [Canal de YouTube](https://www.youtube.com/channel/UCddn8dUxYdgJz3Qr5mjADtA) do projeto nutritionfacts.org, do médico norte-americano Michael Greger, onde uma boa parte dos vídeos tem legendas em português (recomendamos [este](https://www.youtube.com/watch?v=30gEiweaAVQ&cc_load_policy=1&cc_lang_pref=pt) para começar). O Dr. Greger tem também vários livros editados, dois dos quais foram já publicados em Portugal: [Como Não Morrer](http://luadepapel.pt/pt/saude/como-nao-morrer/) e [Como Não Fazer Dieta](http://luadepapel.pt/pt/saude/como-nao-fazer-dieta/).
 
 * Livro [Saúde e Fitness Vegan](https://www.primebooks.pt/produto/saude-fitness-vegan), de Rafael Pinto com revisão científica do médico Francisco Regel e do nutricionista desportivo Darchite Kantelal.
 

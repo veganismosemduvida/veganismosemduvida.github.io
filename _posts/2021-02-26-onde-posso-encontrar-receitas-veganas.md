@@ -23,7 +23,7 @@ Felizmente, já são muitos os recursos para quem procura receitas 100% vegetais
 
 # Canais de YouTube
 * [Ana The Vegetariana](https://www.youtube.com/channel/UCNazaaZA5SiUpgXHXVhjHtA)
-* [ChicoDias - TioVegano](https://www.youtube.com/watch?v=Ai1rvFr-ojM)
+* [ChicoDias - TioVegano](https://www.youtube.com/channel/UCOekBwYZ_aOirXhpdwNW38A)
 * [Filipa Saraiva](https://www.youtube.com/channel/UC18HiAPHfa7aFBQDcsXhwig)
 * [Inês Pera](https://www.youtube.com/channel/UCXoHIQIbFrE6HAX6jzHX6mQ)
 * [Revista Weggan](https://www.youtube.com/channel/UCSNJk1wttQPIV5oiiFJQk9A)
@@ -42,6 +42,6 @@ Felizmente, já são muitos os recursos para quem procura receitas 100% vegetais
 * [Vegan para Todos](https://www.zeroaoito.pt/product-page/vegan-para-todos), de André Nogueira e Rita Parente
 * [Vegetal a 100%](https://influencia.com.pt/livros/vegetal-a-100), de Oksana Zagoruy
 
-![[Foto do galo Francisco a olhar para o livro Vegan para Todos]](/assets/images/quinta_aguias_galo_livro_vegano.jpg "O galo Francisco a olhar para o livro Vegan para Todos")
+![[Foto do galo Francisco a olhar para o livro Vegan para Todos, na Quinta das Águias]](/assets/images/quinta_aguias_galo_livro_vegano.jpg "O galo Francisco a olhar para o livro Vegan para Todos, na Quinta das Águias")
 
 <div class="img-caption">O galo Francisco a olhar para o livro Vegan para Todos. Foto cedida pela <a href="https://www.facebook.com/associacaoquintadasaguias/photos/1700592383366526">Quinta das Águias</a>.</div>

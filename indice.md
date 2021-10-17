@@ -3,6 +3,7 @@ title: Todas as questões
 date: 2020-12-13T11:58:42+00:00
 author: fernanda
 layout: page
+permalink: /indice/
 ---
 
 {% assign sortedPosts = site.posts | sort: 'url' %} 

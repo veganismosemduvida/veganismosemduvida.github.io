@@ -10,7 +10,7 @@ Isso mesmo, nem peixe!
 
 Apesar de serem mais diferentes de nós do que os porcos, as vacas ou mesmo as aves, os peixes são seres sencientes, pelo que não devemos provocar-lhes sofrimento desnecessariamente - e o peixe, tal como a carne ou qualquer outro produto de origem animal, [não é necessário para uma alimentação saudável](/a-dieta-100-vegetal-e-saudavel).
 
-Para quem possa ainda ter dúvidas de que os peixes sentem dor, o artigo [It’s Official: Fish Feel Pain](https://www.smithsonianmag.com/science-nature/fish-feel-pain-180967764/) (É oficial: os peixes sentem dor), publicado em 2018 na Smithsonian Magazine, é bastante elucidativo. Traduzimos abaixo os trechos mais relevantes:
+Para quem possa ainda ter dúvidas de que os peixes sentem dor, o artigo It’s Official: Fish Feel Pain (É oficial: os peixes sentem dor), publicado em 2018 na Smithsonian Magazine, é bastante elucidativo. Traduzimos abaixo os trechos mais relevantes:
 
 <blockquote>
   <p>A nível anatómico, os peixes têm neurónios conhecidos como nociceptores, que detetam potenciais perigos, como temperaturas altas, pressão intensa e químicos cáusticos. Os peixes produzem os mesmos opióides - os analgésicos naturais do corpo - que os mamíferos. E a sua atividade cerebral durante uma lesão é análoga à dos vertebrados terrestres: espetar um alfinete num peixinho dourado ou numa truta arco-íris, por trás das suas guelras, estimula os nociceptores e causa uma cascata de atividade elétrica através das regiões do cérebro que são essenciais à perceção sensorial consciente (tais como o cerebelo, o tectum e o telencéfalo), não apenas do rombencéfalo e do tronco encefálico, que são responsáveis por reflexos e impulsos. <span style="font-style:normal">(...)</span></p>
@@ -20,7 +20,7 @@ Para quem possa ainda ter dúvidas de que os peixes sentem dor, o artigo [It’s
   <cite>Tradução livre de trechos do artigo <a href="https://www.smithsonianmag.com/science-nature/fish-feel-pain-180967764/">It’s Official: Fish Feel Pain</a>, da Smithsonian Magazine</cite>
 </blockquote>
 
-Os biliões de peixes utilizados anualmente na alimentação humana morrem quase exclusivamente de forma lenta e dolorosa. Ou por asfixia após serem trazidos para a superfície (um processo que pode demorar várias horas e durante o qual os peixes em pânico se contorcem de tal forma que chegam a sofrer ruturas musculares), ou esmagados contra outros peixes em enormes redes de pesca, ou congelados após a captura, ou ao serem eviscerados vivos, ou após sangrarem por horas ou dias presos a um anzol na pesca à linha industrial. E o horror é transversal à pesca e à aquacultura, como demonstram estes vídeos da [Animal Equality Brasil](https://www.youtube.com/watch?v=SdvRaIh1-fk) e da [Mercy for Animals Brasil](https://www.youtube.com/watch?v=PVhjA5Qta4E) (podem ser chocantes).
+Os biliões de peixes utilizados anualmente na alimentação humana morrem quase exclusivamente de forma lenta e dolorosa. Ou por asfixia após serem trazidos para a superfície (um processo que pode demorar várias horas e durante o qual os peixes em pânico se contorcem de tal forma que chegam a sofrer ruturas musculares), ou esmagados contra outros peixes em enormes redes de pesca, ou congelados após a captura, ou ao serem eviscerados vivos, ou após sangrarem por horas ou dias presos a um anzol na pesca à linha industrial. E o horror é transversal à pesca e à aquacultura, como demonstram estes vídeos da [Animal Equality Brasil](https://www.youtube.com/watch?v=SdvRaIh1-fk&cc_load_policy=1&cc_lang_pref=pt) e da [Mercy for Animals Brasil](https://www.youtube.com/watch?v=PVhjA5Qta4E&cc_load_policy=1&cc_lang_pref=pt) (podem ser chocantes).
 
 Apesar de todas as atrocidades que cometemos contra os animais terrestres, o que fazemos aos peixes é particularmente cruel. Mas ainda que fôssemos mais gentis, a verdade é que não existe uma forma ética de matar um indivíduo que não quer morrer. Por isso, não: nem peixe.
 
@@ -33,7 +33,7 @@ Dada a enorme variedade de animais aquáticos (vertebrados e invertebrados), a q
 * [A mortal indústria da pesca](https://animalequality.org.br/problemas/peixe)
 * [Os Peixes sofrem?](https://www.centrovegetariano.org/Article-456-Os%2BPeixes%2Bsofrem%253F.html)
 * [ONG italiana mostra a crueldade da indústria no abate de peixes confinados](https://g1.globo.com/natureza/blog/amelia-gonzalez/post/2018/10/19/ong-italiana-mostra-a-crueldade-da-industria-no-abate-de-peixes-confinados.ghtml)
-* [Três Razões para Não Comer Carne de Peixe](https://www.youtube.com/watch?v=WZiC1WKeyrU)
+* [Três Razões para Não Comer Carne de Peixe](https://www.youtube.com/watch?v=WZiC1WKeyrU&cc_load_policy=1&cc_lang_pref=pt)
 
-![[Foto de um peixe gato]](/assets/images/will-turner-z5gwXaKYuF8-unsplash.jpg "Peixe gato")
+![[Foto de um peixe-gato]](/assets/images/will-turner-z5gwXaKYuF8-unsplash.jpg "Peixe-gato")
 <div class="img-caption">Foto de <a href="https://unsplash.com/@turner_imagery?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Will Turner</a> no <a href="https://unsplash.com">Unsplash</a>.</div>

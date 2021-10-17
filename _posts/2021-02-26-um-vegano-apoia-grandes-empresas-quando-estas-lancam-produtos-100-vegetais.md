@@ -17,7 +17,7 @@ O veganismo estratégico defende que **sim**: que quando uma empresa lança um p
 
 ## Mais informações
 
-[Como criar um mundo vegano](https://www.youtube.com/watch?v=D-3we9c6ttM) &#8211; palestra de Tobias Leenart com legendas em português
+[Como criar um mundo vegano](https://www.youtube.com/watch?v=D-3we9c6ttM&cc_load_policy=1&cc_lang_pref=pt) &#8211; palestra de Tobias Leenart com legendas em português
 
 [Os princípios básicos da abordagem pragmática no ativismo vegano](https://www.veganismoestrategico.com.br/postagens/ativismo-focado-em-resultados-praticos-e-pautado-em-pesquisas-e-analises/)
 
