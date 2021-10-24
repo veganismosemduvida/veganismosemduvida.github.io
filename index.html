@@ -34,12 +34,12 @@ layout: default
       {% for post in site.posts %}
         {% if post.url == '/a-minha-filha-tornou-se-vegana-e-agora/' %}      
       <div class="mb-3 d-flex align-items-center">                
-              <a href="{{site.baseurl}}{{post.url}}" style="text-decoration:none"><div>
+              <a href="{{site.baseurl}}{{post.url}}" class="frontpage"><div>
                   <h1 class="mb-2 h6 home-title">
                   {{ post.title }}
                   </h1>
                   <p class="mb-3 lead">
-                      <span style="color:#222">{{ post.excerpt | strip_html | strip_newlines | truncate: 200 }}</span> <span style="font-weight:700;text-decoration:none">Ler&nbsp;mais&nbsp;&#8594;</span>
+                      {{ post.excerpt | strip_html | strip_newlines | truncate: 200 }} <span style="font-weight:700;text-decoration:none;color:#00684d">Ler&nbsp;mais&nbsp;&#8594;</span>
                   </p>                    
 
               </div></a>

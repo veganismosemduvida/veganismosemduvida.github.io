@@ -3,7 +3,7 @@
         var y = $(this).scrollTop();
         var y1 = $(window).scrollTop() + $(window).height();
         var height = $(document).height();
-        var footerHeight = $('footer').height() + 5;
+        var footerHeight = $('footer').height() + 7;
         /* if (y > 0) {
             $('.alertbar').fadeIn();
         } else {
