@@ -15,7 +15,9 @@ Se quiseres entrar em contato connosco, podes escrever para veganismo<span class
 
 O conteúdo escrito deste site, inteiramente da autoria da Associação Vida Animal exceto indicação explícita em contrário, é partilhado sob a licença [Atribuição 4.0 Internacional (CC BY)](https://creativecommons.org/licenses/by/4.0/deed.pt) da Creative Commons, o que significa que pode ser copiado, redistribuído ou adaptado em qualquer suporte ou formato e para qualquer fim, desde que acompanhado do devido crédito.
 
-Agradecemos ao nosso projeto parceiro [Amor e Hortelã](https://www.amorehortela.pt) e aos nossos amigos da [Quinta das Águias](http://www.quintadasaguias.org) a cedência de fotografias. Foram ainda utilizadas algumas imagens do [Unsplash](https://unsplash.com).
+O website foi criado com o [Jekyll](https://jekyllrb.com) e utiliza o tema [Mundana](https://www.wowthemes.net/mundana-jekyll-theme) da [WowThemes](https://www.wowthemes.net).
+
+Agradecemos ao nosso projeto parceiro [Amor e Hortelã](https://www.amorehortela.pt) e aos nossos amigos da [Quinta das Águias](http://www.quintadasaguias.org) a cedência de fotografias. Foram ainda utilizadas imagens do [Pixabay](https://pixabay.com) e do [Unsplash](https://unsplash.com).
 
 ![[Foto de um ganso na Quinta das Águias]](/assets/images/quinta_aguias_ganso.png "Um ganso na Quinta das Águias")
 

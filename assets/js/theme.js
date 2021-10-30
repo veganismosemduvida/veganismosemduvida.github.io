@@ -1,7 +1,7 @@
  // alertbar later
  $(document).scroll(function () {
-        var y = $(this).scrollTop();
-        var y1 = $(window).scrollTop() + $(window).height();
+        // var y = $(this).scrollTop();
+        var y1 = window.pageYOffset + document.documentElement.clientHeight;
         var height = $(document).height();
         var footerHeight = $('footer').height() + 7;
         /* if (y > 0) {
@@ -16,10 +16,6 @@
         }
     });
     
-
-    
-    
-
 
 // Hide Header on on scroll down
     var didScroll;

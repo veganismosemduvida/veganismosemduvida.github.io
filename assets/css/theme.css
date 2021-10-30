@@ -11,6 +11,7 @@ body {
   position:relative;
 	min-height:400px;
 	margin-top:2rem;
+	padding-bottom:3rem;
 }
 
 .remove-site-content-margin {
@@ -681,6 +682,14 @@ footer {
 	margin-top:50px;
 	z-index:0;
 	position:relative;
+  line-height:1.2;
+  padding: 2px;
+  padding-top:4px;
+  box-sizing:border-box;
+  text-align:center;
+  font-size:0.9rem;
+  font-family:  Roboto, sans-serif;
+  font-weight:300;
 }
 .sticky-top-offset {
 	top:70px;
@@ -757,7 +766,6 @@ article h1,article h2,article h3,article h4,article h5,article h6,article .h1,ar
 .alertbar {
 	box-shadow:0 -3px 7px 3px rgba(0,0,0,.1);
 	position:fixed;
-	bottom:0;
 	left:0;
 	background-color:#ffce13;
 	width:100%;
@@ -864,22 +872,9 @@ div.a2a_full_footer {display:none;}
 }
 
 .dark-footer {
-  position:relative;
-  bottom:0;
-  left:0;
-  right:0;
   color:#fff;
-  font-family:  Roboto, sans-serif;
-  font-weight:300;
-  font-size:0.9rem;
-  line-height:1.2;
-  padding: 2px;
-  padding-top:4px;
   background-color: #005f68;
   border-top:1px #fff dashed;
-  box-sizing:border-box;
-  text-align:center;
-  margin-bottom:-26px;
 }
 
 .dark-footer a {
@@ -996,7 +991,7 @@ a.frontpage {
 }
 
 a.frontpage:hover, {
-  text-decoration:underline;
+  background-color:#c0c0c0;
   color: #005f68;
 }
 
