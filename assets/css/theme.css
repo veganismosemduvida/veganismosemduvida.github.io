@@ -995,6 +995,24 @@ a.frontpage:hover, {
   color: #005f68;
 }
 
+#dominion-parent {
+  text-align:center; 
+}
+
+#dominion-child {
+  display: inline-block;
+  margin:10px;
+  padding:2px 8px 2px 8px;
+  border-radius: 10px;
+  background-color:#7c482e;
+  font-size:1.5rem;
+  font-weight:bold;
+}
+
+#dominion-child a {
+  color: #fff;
+  text-decoration:none;
+}
 
 
 /* Animation

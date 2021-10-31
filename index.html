@@ -12,7 +12,7 @@ layout: default
       <div class="col-md-4">
       
       {% for post in site.posts %}
-        {% if post.url == '/porque-ser-vegano/' %}   
+        {% if post.url == '/e-possivel-gostar-de-animais-e-nao-ser-vegano/' %}   
       <div class="mb-3 d-flex align-items-center">                
               <a href="{{site.baseurl}}{{post.url}}" style="text-decoration:none"><div>
                   <h1 class="mb-2 h6 home-title">
@@ -29,7 +29,7 @@ layout: default
   </div>
   
   
-  <div class="col-md-4 padding-left">
+  <div class="col-md-4">
       
       {% for post in site.posts %}
         {% if post.url == '/a-minha-filha-tornou-se-vegana-e-agora/' %}      
@@ -48,7 +48,7 @@ layout: default
       {% endfor %}
       </div>
   
-  <div class="col-md-4 padding-left">
+  <div class="col-md-4">
       
       {% for post in site.posts %}
         {% if post.url == '/quero-ser-vegano-por-onde-comeco/' %}       
@@ -72,7 +72,7 @@ layout: default
 {% if post.tags contains "sticky" %}
 <a href="{{site.baseurl}}{{post.url}}" style="text-decoration:none">
 <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-2rem mb-3 bg-lightblue position-relative">
-  <div class="pl-4 pr-0 h-100 tofront">
+  <div class="pl-4 pr-2 h-100 tofront">
       <div class="row justify-content-between">
           <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-right">
               <h1 class="mb-2 mt-4 h6 home-title text-dark">
@@ -92,7 +92,7 @@ layout: default
 
       <div class="col-md-4">
       {% for post in site.posts %}
-        {% if post.url == '/e-possivel-gostar-de-animais-e-nao-ser-vegano/' %}     
+        {% if post.url == '/porque-ser-vegano/' %}     
       <div class="mb-3 d-flex align-items-center">                
             
               <a href="{{site.baseurl}}{{post.url}}" style="text-decoration:none"><div>
@@ -112,7 +112,7 @@ layout: default
         {% if post.url == '/quando-eu-me-tornar-vegano-como-vao-reagir-familiares-amigos-e-conhecidos/' %}        
       <div class="mb-3 d-flex align-items-center">                               
               <a href="{{site.baseurl}}{{post.url}}" style="text-decoration:none"><div>
-                  <h1 class="mb-3 h6 home-title">
+                  <h1 class="mb-2 h6 home-title">
                   {{ post.title }}
                   </h1>
                   <p class="mb-3 lead">
@@ -125,7 +125,7 @@ layout: default
       {% endfor %}                   
   </div>    
   
-  <div class="col-md-4 padding-left">
+  <div class="col-md-4">
       
       {% for post in site.posts %}
         {% if post.url == '/diz-se-vegan-ou-vegano-a/' %}       
@@ -148,7 +148,7 @@ layout: default
         {% if post.url == '/porque-e-que-os-veganos-estao-sempre-a-dizer-a-toda-a-gente-que-sao-veganos/' %}        
       <div class="mb-3 d-flex align-items-center">                               
               <a href="{{site.baseurl}}{{post.url}}" style="text-decoration:none"><div>
-                  <h1 class="mb-3 h6 home-title">
+                  <h1 class="mb-2 h6 home-title">
                   {{ post.title }}
                   </h1>
                   <p class="mb-3 lead">
@@ -163,7 +163,7 @@ layout: default
       
   </div>
   
-  <div class="col-md-4 padding-left">
+  <div class="col-md-4">
      
       
       {% for post in site.posts %}
@@ -187,7 +187,7 @@ layout: default
         {% if post.url == '/alem-da-alimentacao-o-que-mais-muda-quando-me-torno-vegano/' %}    
       <div class="mb-3 d-flex align-items-center">                               
               <a href="{{site.baseurl}}{{post.url}}" style="text-decoration:none"><div>
-                  <h1 class="mb-3 h6 home-title">
+                  <h1 class="mb-2 h6 home-title">
                   {{ post.title }}
                   </h1>
                   <p class="mb-3 lead">
@@ -198,15 +198,13 @@ layout: default
           </div>
         {% endif %}
       {% endfor %}      
-        
-      
   </div>
   
   
   
 </div>
 
-<br /><br /><p style="text-align:center;font-size:2rem;font-weight:600" class="lead"><a href="/indice" style="text-decoration:none">Todas as questões <b>&#8594;</b></a></p>   
+<br /><p style="text-align:center;font-size:2rem;font-weight:600" class="lead"><a href="/indice" style="text-decoration:none">Todas as questões <b>&#8594;</b></a></p><br />
 
 {% endif %} <!--endif page url is / -->
 
