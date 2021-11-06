@@ -8,25 +8,30 @@ tags: [comida vegana barata, comida vegan barata, refeições veganas baratas, r
 
 Não :) A ideia de que a comida vegana é cara é um mito baseado na perceção incorreta de que os veganos consomem maioritariamente alimentos "exóticos", como abacate ou quinoa, ou processados, como Beyond Burgers. Na verdade, **a maioria dos alimentos que os veganos consomem são os mais baratos do supermercado: legumes, frutas, leguminosas e cereais**. Alguns produtos, como tofu, algas ou frutos secos, podem ser um pouco mais caros, além de que produtos como leites, gelados ou iogurtes vegetais tendem a ser mais caros do que os equivalentes de origem animal, mas no final das contas é perfeitamente possível (e até provável) ter uma dieta 100% vegetal a um custo semelhante ou inferior ao da dieta convencional.
 
-Vejamos, por exemplo, uma receita do site O Vegetariano, da nutricionista Sandra Gomes Silva: [Massa integral com lentilhas e ervilhas de quebrar](http://ovegetariano.pt/massa-integral-com-lentilhas-e-ervilhas-de-quebrar), para duas pessoas. Eis a lista de ingredientes e o respetivo preço, tomando como referência o site do Continente em Abril de 2021:
+Vejamos, por exemplo, uma receita do Amor e Hortelã, da Chef Alexandra Mendes Ribeiro: [Bolonhesa de lentilhas em molho de tomate e alho francês](https://www.amorehortela.pt/2019/01/bolonhesa-de-lentilhas-em-molho-de.html), para 4 pessoas. Eis a lista de ingredientes e o respetivo preço, tomando como referência o site do Continente em Novembro de 2021:
 
-* **Meia cebola pequena** - uma cebola pesa em média 100-150g, por isso digamos que meia cebola pequena são 60g. A [1,59€/kg](https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5063153), são 0,10€.
-* **150g de massa esparguete integral** - a [1,78€/kg](https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5879150), são 0,27€.
-* **¾ de chávena de lentilhas cozidas (130g)** - a [1,73/kg](https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=6818176), são 0,22€.
-* **1 mão cheia de ervilhas de quebrar (100g)** - a [13,45€/kg](https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5818924), são 1,35€.
-* **50g de brócolos** - a [1,99/kg](https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2076764), são 0,10€.
-* **40g de couve branca** - a [0,99€/kg](https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=2076762), são 0,04€.
-* **30g de cenoura raspada** - a [0,69€/kg](https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=5063155), são 0,02€.
-* **1 colher de sopa de polpa de tomate** - considerando que [uma colher de sopa são 15g](https://conversor-de-medidas.com/culinaria-vm/--1--colher-de-sopa--de--molho-de-tomate--em--grama), a [0,92€/kg](https://www.continente.pt/stores/continente/pt-pt/public/Pages/ProductDetail.aspx?ProductId=4898365), são 0,01€.
-* **Azeite, sal iodado e pimenta q.b.** - estimando por excesso, consideremos 0,15€ para estes condimentos.
 
-Temos assim um total de **2.26€**. Uma refeição nutritiva para duas pessoas, usando massa integral em vez de refinada e sem considerar eventuais promoções, por pouco mais de dois euros.
+* **250 g de [lentilhas castanhas secas](https://www.continente.pt/produto/lentilhas-secas-continente-6604652.html)**: a 1,90€/kg, são 0,48€.
+* **240 g de [esparguete integral](https://www.continente.pt/produto/massa-esparguete-integral-continente-equilibrio-5879150.html)**: a 1,98€/kg, são 0,48€.
+* **2 a 3 [tomates](https://www.continente.pt/produto/tomate-calibre-70-102-continente-2076841.html) médios frescos** (consideremos 3, de 100g cada): a 0,99€/kg, são 0,30€.
+* **1 [cebola](https://www.continente.pt/produto/cebola-continente-4618134.html) média** (150g): a 0,86€/kg, são 0,13€.
+* **1 [alho francês](https://www.continente.pt/produto/alho-frances-continente-2076696.html) médio** (300g): a 1,49€/kg, são 0,45€.
+* **1 [cenoura](https://www.continente.pt/produto/cenoura-continente-5063155.html) média ralada** (150g): a 0,69€/kg, são 0,10€.
+* **1 [courgette](https://www.continente.pt/produto/curgete-verde-continente-2076759.html) média** (250g): a 0,99€/kg, são 0,25€.
+* **1 dente de [alho](https://www.continente.pt/produto/alho-seco-continente-4599477.html) médio** (10g): a 3,98€/kg, são 0,04€.
+* **2 c. de sopa de [azeite](https://www.continente.pt/produto/azeite-continente-7082533.html)** (30ml): a 2,92€/l, são 0,09€.
+* **1 c. de sopa de [pimentão doce fumado](https://www.continente.pt/produto/pimentao-doce-fumado-em-frasco-continente-7212170.html)** (10g): a 19,78€/kg, são 0,20€.
+* **1 c. de sopa de [orégãos secos](https://www.continente.pt/produto/oregaos-folha-em-frasco-continente-6788489.html)** (3g): a 35,45€/kg, são 0,10€.
+* **1 c. de chá de [pimenta preta](https://www.continente.pt/produto/pimenta-preta-em-grao-em-saqueta-continente-7209850.html)** (4g): a 17,80€/kg, são 0,07€.
+* **Outros temperos ([sal](https://www.continente.pt/produto/sal-marinho-grosso-continente-5621031.html), [salsa](https://www.continente.pt/produto/salsa-continente-6690952.html), [louro](https://www.continente.pt/produto/louro-folha-em-saqueta-continente-6046671.html))**:  por excesso, estimemos 0,20€.
+
+Temos assim um total de **2.89€**. Uma refeição nutritiva para 4 pessoas, usando massa integral em vez de refinada e sem considerar eventuais promoções, por menos de 3 euros.
 
 Este é apenas um exemplo de como a comida vegana não é - ou não tem de ser - cara. É claro que podemos optar por produtos caros se assim quisermos, mas o mesmo poderá ser dito de quem come carne. A realidade é que é muito fácil ter uma dieta 100% vegetal nutricionalmente equilibrada sem que isso pese no bolso - pelo contrário, podes até mesmo começar a poupar uns trocos.
 
-Recomendamos também o livro [Cozinha Vegetariana para quem quer poupar](https://www.arteplural.pt/produtos/ficha/cozinha-vegetariana-para-quem-quer-poupar/15705794), da Gabriela Oliveira, bem como os vídeos [Comendo um dia inteiro com apenas 3€](https://www.youtube.com/watch?v=V2y-Yx8KMlw&cc_load_policy=1&cc_lang_pref=pt) e [Refeições veganas altas em proteína e baratas](https://www.youtube.com/watch?v=ogk0r-NY-90&cc_load_policy=1&cc_lang_pref=pt), do Rafael Pinto.
+Sugerimos que faças tu mesmo esse exercício: consulta [receitas veganas](/onde-posso-encontrar-receitas-veganas/) e procura os preços dos ingredientes. Ou pensa nas tuas receitas favoritas e em quanto custaria veganizá-las - por exemplo, usar soja granulada em vez de carne picada numa bolonhesa, ou fazer alho francês à brás em vez de bacalhau. É provável que te surpreendas :)
 
-E sugerimos que faças tu mesmo esse exercício: consulta [receitas veganas](/onde-posso-encontrar-receitas-veganas/) e procura os preços dos ingredientes. Ou pensa nas tuas receitas favoritas e em quanto custaria veganizá-las - por exemplo, usar soja granulada em vez de carne picada numa bolonhesa, ou fazer alho francês à brás em vez de bacalhau. É provável que te surpreendas :)
+Recomendamos também o livro [Cozinha Vegetariana para quem quer poupar](https://www.arteplural.pt/produtos/ficha/cozinha-vegetariana-para-quem-quer-poupar/15705794), da Gabriela Oliveira, bem como os vídeos [Comendo um dia inteiro com apenas 3€](https://www.youtube.com/watch?v=V2y-Yx8KMlw&cc_load_policy=1&cc_lang_pref=pt) e [Refeições veganas altas em proteína e baratas](https://www.youtube.com/watch?v=ogk0r-NY-90&cc_load_policy=1&cc_lang_pref=pt), do Rafael Pinto.
 
 ![[Foto de sacos de compras cheios de fruta, legumes e pão]](/assets/images/maria-lin-kim-8RaUEd8zD-U-unsplash.jpg "Sacos de compras")
 
