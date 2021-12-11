@@ -1,5 +1,5 @@
 ---
-title: Diz-se "vegan" ou "vegano/a"?
+title: Diz-se vegan ou vegano/a?
 layout: post
 permalink: /diz-se-vegan-ou-vegano-a/
 image: /assets/images/quinta_aguias_coelhos_porquinhos_india.jpg

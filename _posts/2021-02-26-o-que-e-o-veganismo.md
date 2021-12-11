@@ -3,7 +3,6 @@ title: O que é o veganismo?
 layout: post
 permalink: /o-que-e-o-veganismo/
 image: /assets/images/quinta_aguias_porquinha.jpg
-tag: sticky
 tags: [definição de veganismo, o que significa veganismo, o que significa ser vegan, o que significa ser vegano]
 ---
 Fala-se cada vez mais de veganismo, incluindo nos meios de comunicação tradicionais, mas a resposta a esta pergunta nem sempre fica clara. Afinal, o que é o veganismo? O que significa ser vegano?

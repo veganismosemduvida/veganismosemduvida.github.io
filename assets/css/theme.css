@@ -902,6 +902,7 @@ a.sans, .question-list a {
     font-family:  Roboto, sans-serif;
     font-weight:700;
     border-bottom: 2px solid #eee;
+    border-top:0;
     margin-bottom: 2rem;
 }
 

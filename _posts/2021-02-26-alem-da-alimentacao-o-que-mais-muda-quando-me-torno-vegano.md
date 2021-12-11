@@ -5,7 +5,7 @@ permalink: /alem-da-alimentacao-o-que-mais-muda-quando-me-torno-vegano/
 image: /assets/images/quinta_aguias_patos.png
 tags: [peles, lã, circo, touradas, testes em animais, experimentação, medicamentos]
 ---
-Um vegano procura excluir, [dentro do possível e do praticável](/o-que-e-o-veganismo/), a exploração animal da sua vida. A mudança mais óbvia e impactante é na alimentação, que é um dos setores onde a exploração animal está mais presente, mas há muitas outras coisas que devemos ter em atenção.
+Um vegano procura excluir, [dentro do possível e praticável](/o-que-e-o-veganismo/), a exploração animal da sua vida. A mudança mais óbvia e impactante é na alimentação, que é um dos setores onde a exploração animal está mais presente, mas há muitas outras coisas que devemos ter em atenção.
 
 ## Roupas, acessórios e outros objetos
 
@@ -19,7 +19,7 @@ Quanto ao vesturário e calçado que já tens no armário, fica ao teu critério
 
 O entretenimento com animais é cada vez mais uma coisa do passado, mas ainda existe. No nosso país temos a vergonha das touradas, mas também circos (apesar da [Portaria 1226/2009](https://dre.pt/pesquisa/-/search/491691/details/maximized), que restringe a aquisição e reprodução de animais pelos circos, muitos continuam a ter e a exibir animais nos seus espetáculos), zoológicos, charretes turísticas, corridas de cães, entre outras. Para além, claro, dos &#8220;desportos&#8221; da caça e da pesca.
 
-Um vegano, naturalmente, não apenas se abstém de participar de quaisquer destas formas de entretenimento, como também de assistir, promover ou apoiá-las por quaisquer meios.
+Um vegano, naturalmente, não apenas se abstém de participar destas formas de entretenimento, como também de assistir, promover ou apoiá-las por quaisquer meios.
 
 ## Medicamentos, cosméticos e outros produtos
 
@@ -41,7 +41,7 @@ Numa sociedade complexa como a nossa, a exploração animal está um pouco por t
 
 Isso significa que é praticamente impossível viver no mundo moderno e não beneficiar do uso de produtos animais de alguma forma, seja por falta de informação ou por falta de alternativas. Mas o que não significa é que devamos baixar os braços e dizer que não vale a pena.
 
-Sabendo que determinado produto pode conter ingredientes ou materiais de origem animal, podemos sempre pesquisar na Internet ou mesmo perguntar à empresa para confirmar. E podemos tentar influenciar a empresa para que substitua esse material . Mas se apesar de tudo não conseguirmos evitar usar esse produto, podemos usá-lo sem que isso coloque em causa o nosso veganismo. Mais uma vez: na medida do possível e do praticável. O objetivo de um vegano não é a sua própria perfeição, é o boicote e combate à exploração dos animais. Podemos não conseguir eliminá-la totalmente das nossas vidas, mas com um pequeno esforço podemos eliminar a maior parte (até porque a alimentação é sem dúvida a área com mais impacto) - e isso é fantástico!
+Sabendo que determinado produto pode conter ingredientes ou materiais de origem animal, podemos sempre pesquisar na Internet ou mesmo perguntar à empresa para confirmar. E podemos tentar influenciar a empresa para que substitua esse material . Mas se apesar de tudo não conseguirmos evitar usar esse produto, podemos usá-lo sem que isso coloque em causa o nosso veganismo. Mais uma vez: na medida do possível e praticável. O objetivo de um vegano não é a sua própria perfeição, é o boicote e combate à exploração dos animais. Podemos não conseguir eliminá-la totalmente das nossas vidas, mas com um pequeno esforço podemos eliminar a maior parte (até porque a alimentação é sem dúvida a área com mais impacto) - e isso é fantástico!
 
 ![[Foto de patos na Quinta das Águias]](/assets/images/quinta_aguias_patos.png "Patos na Quinta das Águias")
 

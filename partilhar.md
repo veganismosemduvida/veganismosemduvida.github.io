@@ -2,6 +2,7 @@
 title: Partilhar
 layout: page
 permalink: /partilhar/
+tag: sticky
 ---
 
 Usa qualquer uma das imagens abaixo para divulgar o Veganismo Sem Dúvida nas redes sociais, nomeadamente no Instagram! Alternativamente, podes partilhar um artigo específico, entrando nesse artigo e clicando no ícone da rede social em que pretendes fazer a partilha.
