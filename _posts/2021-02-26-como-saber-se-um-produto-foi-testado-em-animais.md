@@ -22,7 +22,7 @@ Perante este cenário, as melhores formas de garantir que compramos produtos que
 
   * Procurar produtos com o selo cruelty free com maior implantação no mercado: o leaping bunny (coelhinho saltitante) da Cruelty Free International.
   * Verificar na aplicação [Bunny Free](https://www.peta.org/action/bunny-free-app/) da PETA se determinada marca testa em animais ou não (apenas disponível em inglês). 
-  * Comprar apenas em lojas veganas (sejam físicas ou online), ou optar sempre por marcas que sabemos que não testam em animais, como as listadas [neste artigo](https://www.avp.org.pt/marcas-portuguesas-vegan-e-cruelty-free/) da Associação Vegetariana Portuguesa.
+  * Comprar os produtos em lojas veganas (sejam físicas ou online), ou optar sempre por marcas que sabemos que não testam em animais, como as listadas [neste artigo](https://www.avp.org.pt/marcas-portuguesas-vegan-e-cruelty-free/) da Associação Vegetariana Portuguesa.
   * Informar-se por iniciativa própria, por exemplo pesquisando na Internet ou perguntando às próprias empresas.
   
 ![[Foto de um coelho]](/assets/images/quinta_aguias_coelho.png "Um coelho na Quinta das Águias")
