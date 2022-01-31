@@ -25,7 +25,7 @@ Respeitar a sua decisão significa, entre outras coisas:
 
 E se essa pessoa for alguém de quem gostas e que queres ver feliz, podes ir além do respeito e ser uma fonte de apoio nesse momento de mudança. Algumas coisas que podes fazer:
 
-  1. Quando saírem juntos, procura escolher restaurantes que tenham opções veganas, ou então vão a um restaurante 100% vegano, pelo menos de vez em quando.
+  1. Quando saírem juntos, procura escolher restaurantes que tenham opções veganas, ou então vão a restaurantes 100% veganos, pelo menos de vez em quando.
   
   2. Se cozinhas com frequência para essa pessoa (por exemplo, se és mãe, pai ou parceiro/a dela), informa-te sobre cozinha vegana e passa a incluir alternativas aos produtos de origem animal nas refeições, ou mesmo a fazer refeições 100% vegetais algumas vezes por semana. Mesmo que o resto da família não seja vegana, é muito importante reduzir os atuais níveis de consumo de carne, por questões de saúde e ambientais.
   
