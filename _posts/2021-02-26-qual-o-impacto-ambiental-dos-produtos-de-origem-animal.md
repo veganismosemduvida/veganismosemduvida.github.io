@@ -45,7 +45,7 @@ Tal como nos outros gráficos, alimentos essenciais a uma alimentação vegetal 
 
 <iframe src="https://ourworldindata.org/grapher/eutrophying-emissions-protein" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
-# Desflorestação
+# Desflorestação {#desflorestacao}
 
 Um [documento](http://documents1.worldbank.org/curated/en/758171468768828889/pdf/277150PAPER0wbwp0no1022.pdf) do Banco Mundial em 2004 anunciava que 91% da área desflorestada na Amazónia desde 1970 era usada para criação de bovinos. Desde então, o panorama não registou grandes melhoras, com notícias e estudos sobre desmatamento a confirmar continuamente ([2014](https://www.dw.com/pt-br/agropecu%C3%A1ria-%C3%A9-respons%C3%A1vel-por-90-do-desmatamento-ilegal-no-brasil/a-17914393), [2016](http://www.fao.org/americas/noticias/ver/pt/c/425810/), [2018](https://brasil.mongabay.com/2018/06/documentario-destaca-relacao-da-industria-pecuaria-desmatamento-da-amazonia/) [2020](https://www.globalwitness.org/documents/20060/Beef_Banks_and_the_Brazilian_Amazon_EN_-_December_2020_low_res.pdf)) a sua ligação à produção de carne e à produção de soja para alimentar animais da indústria pecuária (não apenas bovinos mas também porcos e aves).
 

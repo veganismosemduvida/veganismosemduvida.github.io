@@ -18,6 +18,6 @@ Antes de terminar, gostaríamos de esclarecer que magoar e matar animais para os
 
 Em resumo, a comida vegana está muito, muito longe de ser desinteressante e sem sabor; se ouvires algúem dizer o contrário, desconfia do seu conhecimento... ou dos seus motivos: ou sabe muito pouco sobre comida vegana, ou está à procura de uma desculpa para se agarrar a velhos hábitos ;)
 
-![[Brownie vegano do Amor e Hortelã]](/assets/images/amor_hortela_brownie.jpg "Brownie vegano do Amor e Hortelã")
+![[Foto de um brownie vegano do Amor e Hortelã]](/assets/images/amor_hortela_brownie.jpg "Brownie vegano do Amor e Hortelã")
 
 <div class="img-caption">Brownie vegano do <a href="https://www.amorehortela.pt/2017/06/brownies-de-feijao-e-chocolate.html">Amor e Hortelã</a>.</div>
