@@ -1,10 +1,10 @@
 # Sobre
 
-Este site foi criado pela [Associação Vida Animal](http://vidanimal.org) com o objetivo de responder às questões que surgem com mais frequência quando se fala de veganismo. Mais informações [aqui](https://veganismosemduvida.com/sobre).
+Este site foi criado pela Associação Vida Animal com o objetivo de responder às questões que surgem com mais frequência quando se fala de veganismo. Mais informações [aqui](https://veganismosemduvida.com/sobre).
 
 # About
 
-This is a website about veganism in portuguese only, created by [Associação Vida Animal](http://vidanimal.org).
+This is a website about veganism in portuguese only, created by Associação Vida Animal.
 
 # Jekyll Theme - Mundana by WowThemes.net
 
