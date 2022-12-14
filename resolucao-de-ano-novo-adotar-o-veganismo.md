@@ -3,12 +3,12 @@ title: "Resolução de ano novo: adotar o veganismo!"
 layout: page
 permalink: /resolucao-de-ano-novo-adotar-o-veganismo/
 image: /assets/images/artem-kniaz-0Ad6Q6SQo1Y-unsplash.jpg
-excerpt: "Ano novo, vida nova! Em 2022, muda a tua vida ao abraçar a melhor resolução de ano novo de sempre: deixar para trás a crueldade sobre os animais!"
+excerpt: "Ano novo, vida nova! Em 2023, muda a tua vida ao abraçar a melhor resolução de ano novo de sempre: deixar para trás a crueldade sobre os animais!"
 tags: [quero ser vegana por onde começo, quero ser vegana, quero ser vegano, quero ser vegan, como ser vegana, como ser vegano, como ser vegan, como me tornar vegana, como me tornar vegano, como me tornar vegan, transição para o veganismo, caminho para o veganismo, quero ser vegetariana, quero ser vegetariano, como ser vegetariana, como ser vegetariano, como parar de comer carne, como deixar de comer carne]
 ---
-Em 2022, abraça a melhor resolução de ano novo de sempre: **deixa para trás a crueldade sobre os animais!**
+Em 2023, abraça a melhor resolução de ano novo de sempre: **deixa para trás a crueldade sobre os animais!**
 
-Ano novo, vida nova! Então porque não mudares a tua vida para melhor, parando de contribuir para a exploração de seres que sentem e alinhando assim as tuas decisões com aquilo em que já acreditas - que não devemos magoar nem matar animais sem necessidade?
+Ano novo, vida nova! Então porque não mudares a tua vida para melhor, parando de contribuir para a exploração e sofrimento dos animais e alinhando assim as tuas decisões com aquilo em que já acreditas - que não devemos magoar nem matar animais sem necessidade?
 
 Não te preocupes: a comida 100% vegetal é [saudável](/a-dieta-100-vegetal-e-saudavel/), [saborosa](/a-comida-vegana-e-desinteressante-e-sem-sabor/) e [económica](/a-comida-vegana-e-cara/) e a transição não é particularmente complicada - é um pequeno desafio com um enorme impacto! E a comunidade vegana está cá para ajudar.
 
