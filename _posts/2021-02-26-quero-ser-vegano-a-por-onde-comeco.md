@@ -9,7 +9,7 @@ Antes de mais, parabéns! Tomaste uma decisão maravilhosa para ti mesmo, para o
 
 (Já agora, se foi alguma coisa que leste neste site que te convenceu, por favor preenche [este curto inquérito anónimo](https://docs.google.com/forms/d/e/1FAIpQLSdjIRFIY_eA_ScNnX9bfnXNfOsJcXcTGfPW-1nQQNUqJqt6Fg/viewform?usp=sf_link) para que fiquemos a saber que o nosso trabalho teve impacto :) Obrigado!)
 
-O primeiro passo é querer, por isso já estás no bom caminho ;) O segundo passo é informares-te, e é para isso que existem numerosos sites como este e outros, cujos links te vamos sugerindo entre as nossas respostas.
+O primeiro passo é querer, por isso já estás no bom caminho ;) O segundo passo é informares-te, e é para isso que existem inúmeros sites como este e outros, cujos links te vamos sugerindo entre as nossas respostas.
 
 Quase todo o conteúdo deste site é útil para quem está a pensar tornar-se vegano, mas listamos abaixo algumas das questões mais diretamente relacionadas com a transição em si. Explora as respostas (e, já agora, o resto do site também :)) e sê bem-vindo/a!
 
