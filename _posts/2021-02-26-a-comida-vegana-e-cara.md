@@ -8,24 +8,24 @@ tags: [comida vegana barata, comida vegan barata, refeições veganas baratas, r
 
 Não :) A ideia de que a comida vegana é cara é um mito baseado na perceção incorreta de que os veganos consomem maioritariamente alimentos "exóticos", como abacate ou quinoa, ou processados, como Beyond Burgers. Na verdade, **a maioria dos alimentos que os veganos consomem são os mais baratos do supermercado: legumes, frutas, leguminosas e cereais**. Alguns produtos, como tofu, algas ou frutos secos, podem ser um pouco mais caros, além de que produtos como leites, gelados ou iogurtes vegetais tendem a ser mais caros do que os equivalentes de origem animal, mas no final das contas é perfeitamente possível (e até provável) ter uma dieta 100% vegetal a um custo semelhante ou inferior ao da dieta convencional.
 
-Vejamos, por exemplo, uma receita do Amor e Hortelã, da Chef Alexandra Mendes Ribeiro: [Bolonhesa de lentilhas em molho de tomate e alho francês](https://www.amorehortela.pt/2019/01/bolonhesa-de-lentilhas-em-molho-de.html), para 4 pessoas. Eis a lista de ingredientes e o respetivo preço, tomando como referência o site do Continente em Novembro de 2021:
+Vejamos, por exemplo, uma receita do Amor e Hortelã, da Chef Alexandra Mendes Ribeiro: [Bolonhesa de lentilhas em molho de tomate e alho francês](https://www.amorehortela.pt/2019/01/bolonhesa-de-lentilhas-em-molho-de.html), para 4 pessoas. Eis a lista de ingredientes e o respetivo preço, tomando como referência o site do Continente em Janeiro de 2023, ou seja, já tendo em conta a significativa inflação de 2022:
 
 
-* **250 g de [lentilhas castanhas secas](https://www.continente.pt/produto/lentilhas-secas-continente-6604652.html)**: a 1,90€/kg, são 0,48€.
-* **240 g de [esparguete integral](https://www.continente.pt/produto/massa-esparguete-integral-continente-equilibrio-5879150.html)**: a 1,98€/kg, são 0,48€.
-* **2 a 3 [tomates](https://www.continente.pt/produto/tomate-calibre-70-102-continente-2076841.html) médios frescos** (consideremos 3, de 100g cada): a 0,99€/kg, são 0,30€.
-* **1 [cebola](https://www.continente.pt/produto/cebola-continente-4618134.html) média** (150g): a 0,86€/kg, são 0,13€.
-* **1 [alho francês](https://www.continente.pt/produto/alho-frances-continente-2076696.html) médio** (300g): a 1,49€/kg, são 0,45€.
-* **1 [cenoura](https://www.continente.pt/produto/cenoura-continente-5063155.html) média ralada** (150g): a 0,69€/kg, são 0,10€.
-* **1 [courgette](https://www.continente.pt/produto/curgete-verde-continente-2076759.html) média** (250g): a 0,99€/kg, são 0,25€.
-* **1 dente de [alho](https://www.continente.pt/produto/alho-seco-continente-4599477.html) médio** (10g): a 3,98€/kg, são 0,04€.
-* **2 c. de sopa de [azeite](https://www.continente.pt/produto/azeite-continente-7082533.html)** (30ml): a 2,92€/l, são 0,09€.
-* **1 c. de sopa de [pimentão doce fumado](https://www.continente.pt/produto/pimentao-doce-fumado-em-frasco-continente-7212170.html)** (10g): a 19,78€/kg, são 0,20€.
-* **1 c. de sopa de [orégãos secos](https://www.continente.pt/produto/oregaos-folha-em-frasco-continente-6788489.html)** (3g): a 35,45€/kg, são 0,10€.
+* **250 g de [lentilhas castanhas secas](https://www.continente.pt/produto/lentilhas-secas-continente-6604652.html)**: a 1,98€/kg, são 0,50€.
+* **240 g de [esparguete integral](https://www.continente.pt/produto/massa-esparguete-integral-continente-equilibrio-5879150.html)**: a 2,78€/kg, são 0,97€.
+* **2 a 3 [tomates](https://www.continente.pt/produto/tomate-calibre-70-102-continente-2076841.html) médios frescos**: a 0,40€/unidade, são 1,20€.
+* **1 [cebola](https://www.continente.pt/produto/cebola-continente-4618134.html) média** (150g): a 1,59€/kg, são 0,24€.
+* **1 [alho francês](https://www.continente.pt/produto/alho-frances-continente-7569033.html) médio** (300g): a 3,56€/kg, são 1,07€.
+* **1 [cenoura](https://www.continente.pt/produto/cenoura-continente-5063155.html) média ralada**: a 0,18€/unidade, são 0,18€.
+* **1 [courgette](https://www.continente.pt/produto/curgete-verde-continente-2076759.html) média**: a 0,60€/unidade, são 0,60€.
+* **1 dente de [alho](https://www.continente.pt/produto/alho-seco-continente-4599477.html) médio** (10g): a 4,98€/kg, são 0,05€.
+* **2 c. de sopa de [azeite](https://www.continente.pt/produto/azeite-continente-7082533.html)** (30ml): a 4.92€/l, são 0,15€.
+* **1 c. de sopa de [pimentão doce fumado](https://www.continente.pt/produto/pimentao-doce-fumado-em-frasco-continente-7212170.html)** (10g): a 22,00€/kg, são 0,22€.
+* **1 c. de sopa de [orégãos secos](https://www.continente.pt/produto/oregaos-folha-em-frasco-continente-6788489.html)** (3g): a 53,64€/kg, são 0,16€.
 * **1 c. de chá de [pimenta preta](https://www.continente.pt/produto/pimenta-preta-em-grao-em-saqueta-continente-7209850.html)** (4g): a 17,80€/kg, são 0,07€.
-* **Outros temperos ([sal](https://www.continente.pt/produto/sal-marinho-grosso-continente-5621031.html), [salsa](https://www.continente.pt/produto/salsa-continente-6690952.html), [louro](https://www.continente.pt/produto/louro-folha-em-saqueta-continente-6046671.html))**:  por excesso, estimemos 0,20€.
+* **Outros temperos ([sal](https://www.continente.pt/produto/sal-marinho-grosso-continente-5621031.html), [salsa](https://www.continente.pt/produto/salsa-continente-6690952.html), [louro](https://www.continente.pt/produto/louro-folha-em-saqueta-continente-6046671.html))**:  por excesso, estimemos 0,40€.
 
-Temos assim um total de **2.89€**. Uma refeição nutritiva para 4 pessoas, usando massa integral em vez de refinada e sem considerar eventuais promoções, por menos de 3 euros.
+Temos assim um total de **5,51€** por uma refeição nutritiva para 4 pessoas, usando massa integral em vez de refinada e sem considerar eventuais promoções.
 
 Este é apenas um exemplo de como a comida vegana não é - ou não tem de ser - cara. É claro que podemos optar por produtos caros se assim quisermos, mas o mesmo poderá ser dito de quem come carne. A realidade é que é muito fácil ter uma dieta 100% vegetal nutricionalmente equilibrada sem que isso pese no bolso - pelo contrário, podes até mesmo começar a poupar uns trocos.
 
