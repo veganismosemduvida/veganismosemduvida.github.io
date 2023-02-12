@@ -15,14 +15,14 @@ Ainda assim, é nossa convicção que quem come ou usa os animais e/ou os produt
 
 # Vídeos {#links}
 
-* [Domínio](https://www.youtube.com/watch?v=TxRlPC9VNGk&cc_load_policy=1&cc_lang_pref=pt), documentário de Shaun Monson narrado por Joaquin Phoenix, Rooney Mara, Sadie Sink, Sia e Kat Von D (em inglês, legendado em português)
+* [Domínio](https://www.youtube.com/watch?v=TxRlPC9VNGk&cc_load_policy=1&cc_lang_pref=pt), documentário de Shaun Monson
 * [Terráqueos](https://www.youtube.com/watch?v=_GGBFv0zw18&cc_load_policy=1&cc_lang_pref=pt), documentário de Shaun Monson narrado por Joaquin Phoenix (em inglês, legendado em português)
 * [A Carne é Fraca](https://www.youtube.com/watch?v=rrFsGTw5bCw&cc_load_policy=1&cc_lang_pref=pt), documentário do Instituto Nina Rosa
 * [Land of Hope and Glory](https://www.youtube.com/watch?v=dvtVkNofcq8&cc_load_policy=1&cc_lang_pref=pt), documentário de Luna Woods (em inglês, legendado em português)
 * [Da Fazenda Ao Frigorífico](https://www.youtube.com/watch?v=u516i94mIaA&cc_load_policy=1&cc_lang_pref=pt), vídeo da Mercy for Animals
 * [A indústria de seres vivos: Um retrato da violência nos matadouros](https://www.youtube.com/watch?v=_tlABBcnVFM&cc_load_policy=1&cc_lang_pref=pt)
 * [As imagens que a indústria de frango não quer que você veja](https://www.youtube.com/watch?v=m-RMd6GnxOw&cc_load_policy=1&cc_lang_pref=pt)
-* [The cruelty behind our clothing - fur](https://www.youtube.com/watch?v=TeIOEdvtuHA&cc_load_policy=1&cc_lang_pref=pt) (em inglês)
+* [Caged, Tortured and Gassed – The Life of Minks and Foxes on a US Fur Farm ](https://www.youtube.com/watch?v=QDwMeUNcimA&cc_lang_pref=pt) (em inglês)
 * [Vídeo mostra "laboratório dos horrores" para experiências em animais](https://www.youtube.com/watch?v=0a-K22YiLmE&cc_load_policy=1&cc_lang_pref=pt)
 
 # Sites

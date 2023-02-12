@@ -30,7 +30,7 @@ Abaixo listamos outros links que podem ser interessantes para quem quer saber ma
 # Gratuitos
 
 ## Sites
-* [Achados Veganos - Motor de pesquisa](https://achadosveganos.vspot.pt)
+
 * [Associação Vegetariana Portuguesa](https://www.avp.org.pt)
 * [Centro Vegetariano](https://www.centrovegetariano.org)
 * [Muda o Mundo](https://www.mudaomundo.org)
@@ -70,7 +70,7 @@ Se o vídeo começar sem legendas em português, clica na roda dentada no canto 
 * [Gunda](https://www.gunda.movie)
 * [Orca - Fúria Animal](https://www.netflix.com/pt/title/70267802)
 * [Seaspiracy: Pesca Insustentável](https://www.netflix.com/pt/title/81014008)
-* [The Game Changers](https://www.netflix.com/pt/title/81157840)
+* [The Game Changers](https://gamechangersmovie.com/)
 * [What the Health](https://www.netflix.com/pt/title/80174177)
 
 ## Livros
@@ -80,14 +80,14 @@ Alguns com link para a versão brasileira, por não existir ou se encontrar esgo
 * [A Hora dos Direitos dos Animais](https://www.almedina.net/a-hora-dos-direitos-dos-animais-1563796294.html), de Fernando Araújo
 * [ A Vaca que não ri](https://www.livroshorizonte.pt/produto/a-vaca-que-nao-ri), de Rui Pedro Fonseca
 * [Comer Animais](https://www.amazon.com/Comer-Animais-Em-Portugues-Brasil/dp/8532526055?currency=EUR&language=pt_BR), de Jonathan Safran Foer
-* [Ecoguia para Mudar o Mundo](https://nascente.pt/livros/ecoguia-para-mudar-o-mundo), de Maria de Oliveira Dias
+* [Ecoguia para Mudar o Mundo](https://www.penguinlivros.pt/loja/nascente/livro/ecoguia-para-mudar-o-mundo/), de Maria de Oliveira Dias
 * [Introdução Aos Direitos Animais. Seu Filho Ou O Cachorro?](https://www.fnac.pt/mp10486019/Introducao-Aos-Direitos-Animais-Seu-Filho-Ou-O-Cachorro), de Gary L Francione
 * [Jaulas Vazias: O desafio dos Direitos Animais](https://www.editax-loja.com/product/jaulas-vazias-o-desafio-dos-direitos-animais), de Tom Regan
-* [Libertação Animal](https://www.fnac.pt/mp8664474/Libertacao-Animal?omnsearchpos=1), de Peter Singer
+* [Libertação Animal](https://www.almedina.net/liberta-o-animal-a-discrimina-o-com-base-na-esp-cie-assenta-num-preconceito-imoral-e-indefens-vel-1669293192.html?gclid=CjwKCAiAuaKfBhBtEiwAht6H7y-Mj5JNmY3uUzsthBx5cXHYoOeRcKexhqUZvdxl6htGNRGnP9_I5hoC6hkQAvD_BwE), de Peter Singer
 * [Porque Gostamos de Cães, Comemos Porcos e Vestimos Vacas: Uma introdução ao carnismo](https://www.bertrandeditora.pt/produtos/ficha/porque-gostamos-de-caes-comemos-porcos-e-vestimos-vacas/21942690), de Melanie Joy
-* [Sim! Os Animais Têm Direitos](https://www.chiadobooks.com/livraria/sim-os-animais-tem-direitos), de André B. Nunes
+* [Sim! Os Animais Têm Direitos](https://www.wook.pt/livro/sim-os-animais-tem-direitos-andre-nunes/16673864), de André B. Nunes
 * [Veganismo: as muitas razões para uma vida mais ética](https://veganagente.com.br/livro-veganismo/), de Robson Fernando de Souza
 
 ![[Foto da cadela Caju e três tartarugas na Quinta das Águias]](/assets/images/quinta_aguias_cadela_tartarugas.jpg "A cadela Caju e três tartarugas na Quinta das Águias")
 
-<div class="img-caption">A cadela Caju e três tartarugas. Foto cedida pela <a href="https://www.facebook.com/associacaoquintadasaguias/photos/1152900774802359">Quinta das Águias</a>.</div>
+<div class="img-caption">A cadela Caju e três tartarugas. Foto cedida pela <a href="https://www.facebook.com/associacaoquintadasaguias/photos/pb.100064801445920.-2207520000./1729170207175410/?type=3">Quinta das Águias</a>.</div>

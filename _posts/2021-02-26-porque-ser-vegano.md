@@ -34,4 +34,4 @@ E para lá de todos estes excelentes motivos, há ainda um último, um pouco ego
 
 ![[Foto das porcas Bolota e Miss Piggy, na Quinta das Águias]](/assets/images/quinta_aguias_porcas.jpg "As porcas Bolota e Miss Piggy, na Quinta das Águias")
 
-<div class="img-caption">As porcas Bolota e Miss Piggy. Foto cedida pela <a href="https://www.facebook.com/FreedomFarmIsrael/photos/1289742411203944">Quinta das Águias</a>.</div>
+<div class="img-caption">As porcas Bolota e Miss Piggy. Foto cedida pela <a href="https://www.facebook.com/associacaoquintadasaguias/photos/pb.100064801445920.-2207520000./770235669735540">Quinta das Águias</a>.</div>

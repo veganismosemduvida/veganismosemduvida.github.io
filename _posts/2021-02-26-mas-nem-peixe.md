@@ -33,7 +33,7 @@ Dada a enorme variedade de animais aquáticos (vertebrados e invertebrados), a q
 * [A mortal indústria da pesca](https://animalequality.org.br/problemas/peixe)
 * [Os Peixes sofrem?](https://www.centrovegetariano.org/Article-456-Os%2BPeixes%2Bsofrem%253F.html)
 * [ONG italiana mostra a crueldade da indústria no abate de peixes confinados](https://g1.globo.com/natureza/blog/amelia-gonzalez/post/2018/10/19/ong-italiana-mostra-a-crueldade-da-industria-no-abate-de-peixes-confinados.ghtml)
-* [Três Razões para Não Comer Carne de Peixe](https://www.youtube.com/watch?v=WZiC1WKeyrU&cc_load_policy=1&cc_lang_pref=pt)
+* [Três Razões para Não Comer Carne de Peixe](https://www.youtube.com/watch?v=SsMdDsQmuUU)  (em inglês, legendado em português)
 
 ![[Foto de um peixe-gato]](/assets/images/will-turner-z5gwXaKYuF8-unsplash.jpg "Peixe-gato")
 <div class="img-caption">Foto de <a href="https://unsplash.com/@turner_imagery?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Will Turner</a> no <a href="https://unsplash.com">Unsplash</a>.</div>

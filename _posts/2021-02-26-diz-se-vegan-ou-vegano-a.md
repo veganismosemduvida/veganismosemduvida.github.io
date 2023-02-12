@@ -11,4 +11,4 @@ Independentemente da variante utilizada, o importante é que se fale de veganism
 
 ![[Foto de um grupo de coelhos e porquinhos da Índia a comer, na Quinta das Águias]](/assets/images/quinta_aguias_coelhos_porquinhos_india.jpg "Grupo de coelhos e porquinhos da Índia a comer, na Quinta das Águias")
 
-<div class="img-caption">Foto cedida pela <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1091012">Quinta das Águias</a>.</div>
+<div class="img-caption">Foto cedida pela <a href="https://www.facebook.com/associacaoquintadasaguias/photos/pb.100064801445920.-2207520000./1477749482317485/?type=3">Quinta das Águias</a>.</div>

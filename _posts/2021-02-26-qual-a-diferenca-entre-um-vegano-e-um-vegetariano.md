@@ -27,7 +27,7 @@ Estes significados, nomeadamente no que toca à sua aplicação a produtos, cond
 
 <p><b>Vegetariano</b>: Alimentos e outros produtos que não contêm animais ou partes de animais são considerados vegetarianos. Isso leva em consideração todas as etapas de produção e processamento. Os alimentos e outros produtos criados com a ajuda de animais vivos e produtos derivados de animais são considerados vegetarianos.&#8220;</p>
 
-<cite><a href="https://www.certificadovegetariano.pt/perguntas-frequentes">Perguntas Frequentes</a> no site V-Label Portugal</cite>
+<cite><a href="https://www.certificadovegetariano.pt/sobre/#faq">Perguntas Frequentes</a> no site V-Label Portugal</cite>
 </blockquote>
 
 O vegetarianismo pode ser um passo importante na transição para o veganismo, e é certamente menos nocivo para os animais e o planeta do que o consumo de carne e peixe, mas não é adequado para quem se opõe ao sofrimento e morte desnecessários dos animais. Para mais informações, vê a questão [Porque não ser apenas vegetariano, se não matamos os animais para obter ovos e laticínios?](/porque-nao-ser-apenas-vegetariano-se-nao-matamos-os-animais-para-obter-ovos-e-laticinios/).

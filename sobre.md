@@ -21,4 +21,4 @@ Agradecemos ao nosso projeto parceiro [Amor e Hortelã](https://www.amorehortela
 
 ![[Foto de um ganso na Quinta das Águias]](/assets/images/quinta_aguias_ganso.png "Um ganso na Quinta das Águias")
 
-<div class="img-caption">Foto cedida pela <a href="https://www.facebook.com/associacaoquintadasaguias/photos/2762611720497915/">Quinta das Águias</a>.</div>
+<div class="img-caption">Foto cedida pela <a href="https://www.facebook.com/associacaoquintadasaguias/photos/pb.100064801445920.-2207520000./2254911524601273/?type=3">Quinta das Águias</a>.</div>

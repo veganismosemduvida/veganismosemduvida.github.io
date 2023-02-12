@@ -27,9 +27,9 @@ O veganismo popular defende que **não**: que grandes empresas que vivem de expl
 
 ## Mais informações
 
-[Veganismo estratégico, pragmático ou, simplesmente, capitalista? Falácias e idealismos confrontados](https://www.anda.jor.br/2020/03/15/veganismo-estrategico-pragmatico-ou-simplesmente-capitalista-falacias-e-idealismos-confrontados/)
-
 [Veganismo popular: conheça o importante movimento que resgata e democratiza a luta pela libertação animal](https://veganagente.com.br/veganismo-popular-politico/)
+
+[Veganismo possível é político, popular e acessível](https://mulheresjornalistas.com/veganismo-possivel-e-politico-popular-e-acessivel/saude/alimentacao/)
 
 ![Imagem de uma bolacha Oreo](/assets/images/brad-switzer-kzloZDPHzeg-unsplash.jpg "Bolacha Oreo")
 

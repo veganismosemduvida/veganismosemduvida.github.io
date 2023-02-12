@@ -18,14 +18,12 @@ Felizmente, já são muitos os recursos para quem procura receitas 100% vegetais
 * [Made by Choices](https://madebychoices.pt/receitas-saudaveis)
 * [Meaningful Flavours](https://www.meaningfulflavours.com/category/receitas/)
 * [O Vegetariano](http://ovegetariano.pt/asreceitas/receitas/)
-* [Sardinha Fora da Lata](https://sardinhaforadalata.com/receitas-categorias)
 * [SociedadeVegan.com](https://sociedadevegan.com/category/receitas-vegan)
 
 # Canais de YouTube
 * [Ana The Vegetariana](https://www.youtube.com/channel/UCNazaaZA5SiUpgXHXVhjHtA)
 * [ChicoDias - TioVegano](https://www.youtube.com/channel/UCOekBwYZ_aOirXhpdwNW38A)
 * [Filipa Saraiva](https://www.youtube.com/channel/UC18HiAPHfa7aFBQDcsXhwig)
-* [Inês Pera](https://www.youtube.com/channel/UCXoHIQIbFrE6HAX6jzHX6mQ)
 * [Revista Weggan](https://www.youtube.com/channel/UCSNJk1wttQPIV5oiiFJQk9A)
 * [Tuga Vegetal](https://www.youtube.com/c/TugaVegetal)
 * [VeganRush](https://www.youtube.com/channel/UC0bhy4T_OCfVDj74SBzoUvA)
@@ -33,14 +31,13 @@ Felizmente, já são muitos os recursos para quem procura receitas 100% vegetais
 # Livros
 
 * Série [Cozinha Vegetariana](http://gabrielaoliveira.weebly.com/livros.html), de Gabriela Oliveira
-* [Como Não Morrer - Livro de Receitas](https://www.leyaonline.com/pt/livros/saude/como-nao-morrer-livro-de-receitas/), do Dr. Michael Greger
-* [Cozinha 100% Vegetal e Saudável](https://nascente.pt/livros/cozinha-100-vegetal-e-saudavel), de Carina Barbosa
-* [Deliciosamente Vegan](https://www.gostodeler.pt/libros/deliciosamente-vegan/MPT-001346), de Filipa Ruas
+* [Como Não Morrer - Livro de Receitas](https://luadepapel.leya.com/pt/saude/como-nao-morrer-livro-de-receitas/), do Dr. Michael Greger
+* [Cozinha 100% Vegetal e Saudável](https://www.penguinlivros.pt/loja/nascente/livro/cozinha-100-vegetal-e-saudavel/), de Carina Barbosa
+* [Deliciosamente Vegan](https://www.penguinlivros.pt/loja/arena/livro/deliciosamente-vegan/), de Filipa Ruas
 * [Receitas com Paixão](https://www.arteplural.pt/produtos/ficha/receitas-com-paixao/19596100), de Márcia Soares Gonçalves
-* [Receitas Vegan](https://www.euroimpalabooks.com/produtos/173542/receitas-vegan), de Bárbara Guevara
 * [Semear o Futuro](https://www.fnac.pt/Semear-o-Futuro-Joep-Ingen-Housz/a7146373), de Ivone e Joep Ingen Housz
 * [Vegan para Todos](https://www.zeroaoito.pt/product-page/vegan-para-todos), de André Nogueira e Rita Parente
-* [Vegetal a 100%](https://influencia.com.pt/livros/vegetal-a-100), de Oksana Zagoruy
+* [Vegetal a 100%](https://www.penguinlivros.pt/loja/influencia/livro/vegetal-a-100/), de Oksana Zagoruy
 
 ![[Foto do galo Francisco a olhar para o livro Vegan para Todos, na Quinta das Águias]](/assets/images/quinta_aguias_galo_livro_vegano.jpg "O galo Francisco a olhar para o livro Vegan para Todos, na Quinta das Águias")
 
