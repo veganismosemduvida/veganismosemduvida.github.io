@@ -23,11 +23,14 @@ Estes significados, nomeadamente no que toca à sua aplicação a produtos, cond
 
 <blockquote>
   <p>
-<b>Vegano</b>: Alimentos e outros produtos que não contêm animais ou partes de animais são considerados veganos. Para ser vegano, um género alimentício ou outro produto não deve ser produzido com a ajuda de animais vivos ou produtos derivados de animais. Isso leva em consideração todas as etapas de produção e processamento.</p>
+<b>Vegano</b>: Os produtos são considerados veganos se não forem de origem animal e se em nenhuma das etapas de produção e processamento tenham sido usados, ou tenham sido suplementados com:
+<br />1. ingredientes e componentes (incluindo aditivos, agentes de transporte, corantes, fragrâncias, aromas e enzimas) ou;
+<br />2. adjuvantes/auxiliares de processamento (tecnológicos ou outros) ou;
+<br />3. substâncias que não são aditivos, mas que são utilizadas da mesma forma e com as mesmas características tais como adjuvantes/auxiliares tecnológicos, quer transformados, quer não transformados, de origem animal.</p>
 
-<p><b>Vegetariano</b>: Alimentos e outros produtos que não contêm animais ou partes de animais são considerados vegetarianos. Isso leva em consideração todas as etapas de produção e processamento. Os alimentos e outros produtos criados com a ajuda de animais vivos e produtos derivados de animais são considerados vegetarianos.&#8220;</p>
+<p><b>Vegetariano</b>: Os produtos são considerados vegetarianos se não contiverem animais ou partes de animais. Na sua produção pode ser adicionado ou usado: leite, colostro, ovos, mel, cera de abelhas, própolis ou suarda (wool grease), incluindo lanolina derivada da lã de ovelha viva — o mesmo se aplica aos seus componentes. &#8220;</p>
 
-<cite><a href="https://www.certificadovegetariano.pt/sobre/#faq">Perguntas Frequentes</a> no site V-Label Portugal</cite>
+<cite><a href="https://www.certificadovegetariano.pt/sobre/#criterios">Critérios e definições</a> no site certificadovegetariano.pt</cite>
 </blockquote>
 
 O vegetarianismo pode ser um passo importante na transição para o veganismo, e é certamente menos nocivo para os animais e o planeta do que o consumo de carne e peixe, mas não é adequado para quem se opõe ao sofrimento e morte desnecessários dos animais. Para mais informações, vê a questão [Porque não ser apenas vegetariano, se não matamos os animais para obter ovos e laticínios?](/porque-nao-ser-apenas-vegetariano-se-nao-matamos-os-animais-para-obter-ovos-e-laticinios/).
