@@ -1,15 +1,15 @@
  // alertbar later
- $(document).scroll(function () {
+ $(window).scroll(function(ev) {
         // var y = $(this).scrollTop();
-        var y1 = window.pageYOffset + document.documentElement.clientHeight;
-        var height = $(document).height();
+        // var clientHeight = document.documentElement.clientHeight;
+        // var remainingHeight = $(document).height() - window.pageYOffset;
         var footerHeight = $('footer').height() + 7;
         /* if (y > 0) {
             $('.alertbar').fadeIn();
         } else {
             $('.alertbar').fadeOut();
         } */
-        if (y1 == height) {
+        if ((window.innerHeight + document.documentElement.scrollTop) >= document.body.offsetHeight) {
           $('.alertbar').css('bottom', footerHeight);
         } else {
           $('.alertbar').css('bottom', '0');
