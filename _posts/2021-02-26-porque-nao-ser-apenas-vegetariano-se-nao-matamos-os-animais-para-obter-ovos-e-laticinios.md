@@ -38,12 +38,11 @@ O que descrevemos acima é apenas um curto resumo do que se passa nestas indúst
 
 * [A vida de uma galinha confinada](https://animalequality.org.br/problemas/ovos/)
 * [What's Wrong With Eggs? The Truth About The Egg Industry](https://www.youtube.com/watch?v=utPkDP3T7R4&cc_load_policy=1&cc_lang_pref=pt) (legendado em português)
-* [Conheça 7 Verdades Por Trás da Indústria dos Ovos](https://peritavegana.com/conheca-8-verdades-por-tras-da-industria-dos-ovos/)
+* [Os sete maiores problemas da indústria de ovos](https://animalequality.org.br/blog/os-7-maiores-problemas-na-industria-de-ovos/)
 * [Sofrimento na indústria do leite](https://animalequality.org.br/problemas/leite/)
 * [A indústria do leite explicada em 5 minutos](https://www.youtube.com/watch?v=CNY90dAc_yw&cc_load_policy=1&cc_lang_pref=pt)
 * [Você sabia que veganos não comem mel? Por que não comem?](https://www.greenme.com.br/alimentar-se/vegetariano-e-vegano/66629-voce-sabia-que-veganos-nao-comem-mel-por-que-nao-comem/)
 * [Motivos para não se usar lã](https://revolucaoanimalistasite.wordpress.com/la/)
-* [Por que ser Vegetariano Não Basta](http://www.culturaveg.com.br/por-que-o-vegetarianismo-nao-basta/)
 * [Egg facts](https://freefromharm.org/eggfacts/) (em inglês)
 * [Dairy facts](https://freefromharm.org/dairyfacts/) (em inglês)
 * [The Honey Industry](https://www.vegansociety.com/go-vegan/why-go-vegan/honey-industry) (em inglês)

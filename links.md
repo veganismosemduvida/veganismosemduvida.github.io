@@ -82,7 +82,7 @@ Alguns com link para a versão brasileira, por não existir ou se encontrar esgo
 * [Comer Animais](https://www.amazon.com/Comer-Animais-Em-Portugues-Brasil/dp/8532526055?currency=EUR&language=pt_BR), de Jonathan Safran Foer
 * [Ecoguia para Mudar o Mundo](https://www.penguinlivros.pt/loja/nascente/livro/ecoguia-para-mudar-o-mundo/), de Maria de Oliveira Dias
 * [Introdução Aos Direitos Animais. Seu Filho Ou O Cachorro?](https://www.fnac.pt/mp10486019/Introducao-Aos-Direitos-Animais-Seu-Filho-Ou-O-Cachorro), de Gary L Francione
-* [Jaulas Vazias: O desafio dos Direitos Animais](https://www.editax-loja.com/product/jaulas-vazias-o-desafio-dos-direitos-animais), de Tom Regan
+* [Jaulas Vazias: O desafio dos Direitos Animais](http://www.editax-loja.com/product/jaulas-vazias-o-desafio-dos-direitos-animais), de Tom Regan
 * [Libertação Animal](https://www.almedina.net/liberta-o-animal-a-discrimina-o-com-base-na-esp-cie-assenta-num-preconceito-imoral-e-indefens-vel-1669293192.html?gclid=CjwKCAiAuaKfBhBtEiwAht6H7y-Mj5JNmY3uUzsthBx5cXHYoOeRcKexhqUZvdxl6htGNRGnP9_I5hoC6hkQAvD_BwE), de Peter Singer
 * [Porque Gostamos de Cães, Comemos Porcos e Vestimos Vacas: Uma introdução ao carnismo](https://www.bertrandeditora.pt/produtos/ficha/porque-gostamos-de-caes-comemos-porcos-e-vestimos-vacas/21942690), de Melanie Joy
 * [Sim! Os Animais Têm Direitos](https://www.wook.pt/livro/sim-os-animais-tem-direitos-andre-nunes/16673864), de André B. Nunes

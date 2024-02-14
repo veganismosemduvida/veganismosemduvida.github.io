@@ -19,7 +19,7 @@ O veganismo estratégico defende que **sim**: que quando uma empresa lança um p
 
 [Como criar um mundo vegano](https://www.youtube.com/watch?v=D-3we9c6ttM&cc_load_policy=1&cc_lang_pref=pt) &#8211; palestra de Tobias Leenart com legendas em português
 
-[Os princípios básicos da abordagem pragmática no ativismo vegano](https://www.veganismoestrategico.com.br/postagens/ativismo-focado-em-resultados-praticos-e-pautado-em-pesquisas-e-analises/)
+[Boicote de produto vs. boicote de empresa](https://web.archive.org/web/20200623202349/http://www.veganismoestrategico.com.br/postagens/boicote-de-produtos-vs-boitoce-de-empresas/)
 
 # Veganismo popular ou político
 
@@ -29,7 +29,7 @@ O veganismo popular defende que **não**: que grandes empresas que vivem de expl
 
 [Veganismo popular: conheça o importante movimento que resgata e democratiza a luta pela libertação animal](https://veganagente.com.br/veganismo-popular-politico/)
 
-[Veganismo possível é político, popular e acessível](https://mulheresjornalistas.com/veganismo-possivel-e-politico-popular-e-acessivel/saude/alimentacao/)
+[Veganismo possível é político, popular e acessível](https://mulheresjornalistas.com/veganismo-possivel-e-politico-popular-e-acessivel/)
 
 ![Imagem de uma bolacha Oreo](/assets/images/brad-switzer-kzloZDPHzeg-unsplash.jpg "Bolacha Oreo")
 
