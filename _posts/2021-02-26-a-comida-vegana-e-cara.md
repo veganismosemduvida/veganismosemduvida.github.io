@@ -14,7 +14,7 @@ Vejamos, por exemplo, uma receita do Amor e Hortelã, da Chef Alexandra Mendes R
 * **250 g de [lentilhas castanhas secas](https://www.continente.pt/produto/lentilhas-secas-continente-6604652.html)**: a 2,30€/kg, são 0,58€.
 * **240 g de [esparguete integral](https://www.continente.pt/produto/massa-esparguete-integral-continente-equilibrio-5879150.html)**: a 2,18€/kg, são 0,52€.
 * **2 a 3 [tomates](https://www.continente.pt/produto/tomate-calibre-70-102-continente-2076841.html) médios frescos**: a 0,60€/unidade, são 1,80€.
-* **1 [cebola](https://www.continente.pt/produto/cebola-continente-4618134.html) média** (150g): a 2,13€/kg, são 0,32€.
+* **1 [cebola](https://www.continente.pt/produto/cebola-continente-4891584.html) média** (150g): a 1,49€/kg, são 0,22€.
 * **1 [alho francês](https://www.continente.pt/produto/alho-frances-continente-2076696.html) médio** (300g): a 1,21€/unidade, são 1,21€.
 * **1 [cenoura](https://www.continente.pt/produto/cenoura-continente-5063155.html) média ralada**: a 0,16€/unidade, são 0,16€.
 * **1 [courgette](https://www.continente.pt/produto/curgete-verde-continente-2076759.html) média**: a 1€/unidade, é 1€.
@@ -25,7 +25,7 @@ Vejamos, por exemplo, uma receita do Amor e Hortelã, da Chef Alexandra Mendes R
 * **1 c. de chá de [pimenta preta](https://www.continente.pt/produto/pimenta-preta-em-grao-em-saqueta-continente-7209850.html)** (4g): a 19,80€/kg, são 0,08€.
 * **Outros temperos ([sal](https://www.continente.pt/produto/sal-marinho-grosso-continente-5621031.html), [salsa](https://www.continente.pt/produto/salsa-continente-6690952.html), [louro](https://www.continente.pt/produto/louro-folha-em-saqueta-continente-6046671.html))**:  por excesso, estimemos 0,50€.
 
-Temos assim um total de **6,79€** por uma refeição nutritiva para 4 pessoas, usando massa integral em vez de refinada e sem considerar eventuais promoções.
+Temos assim um total de **6,69€** por uma refeição nutritiva para 4 pessoas, usando massa integral em vez de refinada e sem considerar eventuais promoções.
 
 Este é apenas um exemplo de como a comida vegana não é - ou não tem de ser - cara. É claro que podemos optar por produtos caros se assim quisermos, mas isso também se aplica a quem consome produtos de origem animal. A realidade é que é muito fácil ter uma dieta 100% vegetal nutricionalmente equilibrada sem que isso pese no bolso - pelo contrário, podes até mesmo começar a poupar uns trocos.
 

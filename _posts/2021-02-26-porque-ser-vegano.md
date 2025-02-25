@@ -16,7 +16,7 @@ Muitos milhões de palavras já se escreveram sobre as razões que fazem do vega
     <em>Quando recordamos outros movimentos de libertação, gostamos de pensar que, se estivéssemos estado lá, teríamos sido abolicionistas ou sufragistas, ou pelo menos não teríamos cooperado com a opressão, nem teríamos ignorado o tema. Não chegámos a tempo. Agora temos outra oportunidade, a da revolução menos sangrenta da história. E não nos é pedido que arrisquemos a vida, nem mesmo a prisão: simplesmente que escolhamos outro prato do menu."</em>
   </p>
   
-  <cite>Tradução livre de um trecho do prefácio do livro Liberación Animal (edição espanhola de Animal Liberation, de Peter Singer), por <a href="https://www.upf.edu/web/cae-center-for-animal-ethics/board-members-paula">Paula Casal</a></cite>
+  <cite>Tradução livre de um trecho do prefácio do livro Liberación Animal (edição espanhola de Animal Liberation, de Peter Singer), por <a href="https://www.upf.edu/web/cae-center-for-animal-ethics/advisory-board/-/asset_publisher/oCrR1XKPi9Ms/content/casal-paula/maximized">Paula Casal</a></cite>
 </blockquote>
 
 É essa a razão fundamental para se ser vegano; no entanto, felizmente, além de poupar os animais à reprodução forçada, confinamento, mutilações, maus-tratos e morte, o veganismo tem várias outras vantagens, que podem também ser vistas como razões para adotá-lo:

@@ -12,19 +12,18 @@ Felizmente, já são muitos os recursos para quem procura receitas 100% vegetais
 
 * [Amor e Hortelã](https://www.amorehortela.pt/p/receitas.html), projeto parceiro da Vida Animal
 * [A Cozinha Verde](https://acozinhaverde.blogs.sapo.pt/tag/receitas)
-* [Associação Vegetariana Portuguesa](https://www.avp.org.pt/receitas)
 * [Compassionate Cuisine](https://compassionatecuisineblog.com/receitas/)
 * [Dona Clementina](https://www.donaclementinavegan.pt/)
 * [Made by Choices](https://madebychoices.pt/receitas-saudaveis)
 * [Meaningful Flavours](https://www.meaningfulflavours.com/category/receitas/)
 * [O Vegetariano](http://ovegetariano.pt/asreceitas/receitas/)
+* [ProVeg Portugal](https://www.avp.org.pt/receitas)
 * [SociedadeVegan.com](https://sociedadevegan.com/category/receitas-vegan)
 
 # Canais de YouTube
-* [Ana The Vegetariana](https://www.youtube.com/channel/UCNazaaZA5SiUpgXHXVhjHtA)
-* [ChicoDias - TioVegano](https://www.youtube.com/channel/UCOekBwYZ_aOirXhpdwNW38A)
 * [Filipa Saraiva](https://www.youtube.com/channel/UC18HiAPHfa7aFBQDcsXhwig)
 * [Revista Weggan](https://www.youtube.com/channel/UCSNJk1wttQPIV5oiiFJQk9A)
+* [TheVegetariAna](https://www.youtube.com/channel/UCNazaaZA5SiUpgXHXVhjHtA)
 * [Tuga Vegetal](https://www.youtube.com/c/TugaVegetal)
 * [VeganRush](https://www.youtube.com/channel/UC0bhy4T_OCfVDj74SBzoUvA)
 

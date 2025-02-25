@@ -13,7 +13,7 @@ Sim! Podemos afirmá-lo peremptoriamente, pois quem o diz são as mais prestigia
     <em>A evidência aponta não só para a importância do consumo regular de produtos de origem vegetal, como para o facto de uma alimentação exclusivamente baseada nestes produtos ser igualmente ou até mais protetora da saúde humana. Por outro lado, sabemos hoje que uma alimentação exclusivamente vegetariana, quando bem planeada, pode preencher todas as necessidades nutricionais de um ser humano e pode ser adaptada a todas as fases do ciclo de vida, incluindo a gravidez, lactação, infância, adolescência e em idosos ou até atletas.&#8221;</em>
   </p>
   
-  <cite><a href="https://nutrimento.pt/activeapp/wp-content/uploads/2015/07/Linhas-de-Orienta%c3%a7%c3%a3o-para-uma-Alimenta%c3%a7%c3%a3o-Vegetariana-Saud%c3%a1vel.pdf">Linhas de orientação para uma alimentação vegetariana saudável</a> da Direção-Geral da Saúde, Portugal</cite>
+  <cite><a href="https://alimentacaosaudavel.dgs.pt/wp-content/uploads/2020/01/Linhas-de-Orienta%C3%A7%C3%A3o-para-uma-Alimenta%C3%A7%C3%A3o-Vegetariana-Saud%C3%A1vel.pdf">Linhas de orientação para uma alimentação vegetariana saudável</a> da Direção-Geral da Saúde, Portugal</cite>
 </blockquote>
 
 <blockquote>
@@ -38,7 +38,7 @@ Como a nossa cultura alimentar é muito centrada nos alimentos de origem animal,
 
 # Conteúdos sobre nutrição e saúde {#links}
 
-* [Linhas de orientação para uma alimentação vegetariana saudável](https://nutrimento.pt/activeapp/wp-content/uploads/2015/07/Linhas-de-Orienta%c3%a7%c3%a3o-para-uma-Alimenta%c3%a7%c3%a3o-Vegetariana-Saud%c3%a1vel.pdf) da Direção-Geral da Saúde, citado acima e **a melhor fonte para responder a perguntas como "onde vou buscar a proteína? E o cálcio? E o ferro? E a vitamina B12?"**.
+* [Linhas de orientação para uma alimentação vegetariana saudável](https://alimentacaosaudavel.dgs.pt/wp-content/uploads/2020/01/Linhas-de-Orienta%C3%A7%C3%A3o-para-uma-Alimenta%C3%A7%C3%A3o-Vegetariana-Saud%C3%A1vel.pdf) da Direção-Geral da Saúde, citado acima e **a melhor fonte para responder a perguntas como "onde vou buscar a proteína? E o cálcio? E o ferro? E a vitamina B12?"**.
 
 * [Manual de Alimentação Vegetariana em Idade Escolar](https://nutrimento.pt/activeapp/wp-content/uploads/2016/04/Alimenta%c3%a7%c3%a3o-Vegetariana-em-Idade-Escolar-.pdf) da Direção-Geral da Saúde.
 
