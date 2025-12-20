@@ -12,7 +12,7 @@ layout: default
       <div class="col-md-4">
       
       {% for post in site.posts %}
-        {% if post.url == '/e-possivel-gostar-de-animais-e-nao-ser-vegano/' %}   
+        {% if post.url == '/a-minha-filha-tornou-se-vegana-e-agora/' %}   
       <div class="mb-3 d-flex align-items-center">                
               <a href="{{site.baseurl}}{{post.url}}" style="text-decoration:none"><div>
                   <h1 class="mb-2 h6 home-title">
@@ -31,8 +31,8 @@ layout: default
   
   <div class="col-md-4">
       
-      {% for post in site.posts %}
-        {% if post.url == '/a-minha-filha-tornou-se-vegana-e-agora/' %}      
+{% for post in site.pages %} 
+{% if post.url == '/resolucao-de-ano-novo-adotar-o-veganismo/' %}   
       <div class="mb-3 d-flex align-items-center">                
               <a href="{{site.baseurl}}{{post.url}}" class="frontpage"><div>
                   <h1 class="mb-2 h6 home-title">
@@ -68,8 +68,8 @@ layout: default
   </div>
 
   
-{% for post in site.posts %}
-{% if post.url == '/o-que-e-o-veganismo/' %}
+{% for post in site.pages %} 
+{% if post.url == '/resolucao-de-ano-novo-adotar-o-veganismo/' %}  
 <a href="{{site.baseurl}}{{post.url}}" style="text-decoration:none">
 <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-2rem mb-3 bg-lightblue position-relative">
   <div class="pl-4 pr-2 h-100 tofront">
