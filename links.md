@@ -39,7 +39,7 @@ Abaixo listamos outros links que podem ser interessantes para quem quer saber ma
 * [Vista-se](https://www.vista-se.com.br)
 
 ## Artigos e reportagens
-* [História de uma morte anunciada - Jornal i](https://ionline.sapo.pt/artigo/397736/historia-de-uma-morte-anunciada?seccao=Portugal_i)
+* [História de uma morte anunciada - Jornal i](https://web.archive.org/web/20220125235800/https://ionline.sapo.pt/artigo/397736/historia-de-uma-morte-anunciada?seccao=Portugal_i)
 * [Por que pessoas que abominam crueldade com animais comem carne? - BBC News](https://www.bbc.com/portuguese/vert-fut-47701819)
 * [Todos os animais são iguais - Público](https://www.publico.pt/2000/09/30/jornal/todos-os-animais-sao-iguais-149432)
 
@@ -48,9 +48,8 @@ Abaixo listamos outros links que podem ser interessantes para quem quer saber ma
 Se o vídeo começar sem legendas em português, clica na roda dentada no canto inferior direito para ativá-las.
 
 * [Comer Animais - Certo ou Errado?](https://www.youtube.com/watch?v=bUTcXSX2BKc&cc_load_policy=1&cc_lang_pref=pt), uma palestra da Vida Animal
-* [A melhor palestra que você irá ouvir na sua vida](https://www.youtube.com/watch?v=8bH-doHSY_o&cc_load_policy=1&cc_lang_pref=pt), de Gary Yourofsky
-* [Luiz Antonio - A argumentação para não comer polvo](https://www.youtube.com/watch?v=NX4O6smZrLE&cc_load_policy=1&cc_lang_pref=pt)
 * [H.O.P.E. What You Eat Matters](https://www.youtube.com/watch?v=FprMvJYnD44&cc_load_policy=1&cc_lang_pref=pt), um documentário de Nina Messinger
+* [Luiz Antonio - A argumentação para não comer polvo](https://www.youtube.com/watch?v=NX4O6smZrLE&cc_load_policy=1&cc_lang_pref=pt)
 * [O Rebanho](https://www.youtube.com/watch?v=_FKEA_1RRUg&cc_load_policy=1&cc_lang_pref=pt), uma curta-metragem de Melanie Light
 * [The Food Matrix - 101 Reasons to Go Vegan](https://www.youtube.com/watch?v=YnQb58BoBQw&cc_load_policy=1&cc_lang_pref=pt), uma palestra de James Wildman
 * [The Meatrix](https://www.youtube.com/watch?v=8069oD3vGBU&cc_load_policy=1&cc_lang_pref=pt), uma curta-metragem de animação da GRACE Communications Foundation

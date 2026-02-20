@@ -13,11 +13,10 @@ Felizmente, já são muitos os recursos para quem procura receitas 100% vegetais
 * [Amor e Hortelã](https://www.amorehortela.pt/p/receitas.html), projeto parceiro da Vida Animal
 * [A Cozinha Verde](https://acozinhaverde.blogs.sapo.pt/tag/receitas)
 * [Compassionate Cuisine](https://compassionatecuisineblog.com/receitas/)
-* [Dona Clementina](https://www.donaclementinavegan.pt/)
 * [Made by Choices](https://madebychoices.pt/receitas-saudaveis)
 * [Meaningful Flavours](https://www.meaningfulflavours.com/category/receitas/)
 * [O Vegetariano](http://ovegetariano.pt/asreceitas/receitas/)
-* [ProVeg Portugal](https://www.avp.org.pt/receitas)
+* [ProVeg Portugal](https://proveg.org/pt/receitas/)
 * [SociedadeVegan.com](https://sociedadevegan.com/category/receitas-vegan)
 
 # Canais de YouTube

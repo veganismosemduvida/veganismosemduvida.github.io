@@ -40,7 +40,7 @@ Como a nossa cultura alimentar é muito centrada nos alimentos de origem animal,
 
 * [Linhas de orientação para uma alimentação vegetariana saudável](https://alimentacaosaudavel.dgs.pt/wp-content/uploads/2020/01/Linhas-de-Orienta%C3%A7%C3%A3o-para-uma-Alimenta%C3%A7%C3%A3o-Vegetariana-Saud%C3%A1vel.pdf) da Direção-Geral da Saúde, citado acima e **a melhor fonte para responder a perguntas como "onde vou buscar a proteína? E o cálcio? E o ferro? E a vitamina B12?"**.
 
-* [Manual de Alimentação Vegetariana em Idade Escolar](https://nutrimento.pt/activeapp/wp-content/uploads/2016/04/Alimenta%c3%a7%c3%a3o-Vegetariana-em-Idade-Escolar-.pdf) da Direção-Geral da Saúde.
+* [Manual de Alimentação Vegetariana em Idade Escolar](https://alimentacaosaudavel.dgs.pt/wp-content/uploads/2020/01/Alimenta%C3%A7%C3%A3o-Vegetariana-em-Idade-Escolar.pdf) da Direção-Geral da Saúde.
 
 * [Canal de YouTube](https://www.youtube.com/channel/UCddn8dUxYdgJz3Qr5mjADtA) do projeto nutritionfacts.org, do médico norte-americano Michael Greger, onde uma boa parte dos vídeos tem legendas em português (recomendamos [este](https://www.youtube.com/watch?v=30gEiweaAVQ&cc_load_policy=1&cc_lang_pref=pt) para começar). O Dr. Greger tem também vários livros editados, dois dos quais foram já publicados em Portugal: [Como Não Morrer](https://luadepapel.leya.com/pt/saude/como-nao-morrer-ebook/) e [Como Não Fazer Dieta](https://luadepapel.leya.com/pt/saude/como-nao-fazer-dieta/).
 
@@ -48,7 +48,7 @@ Como a nossa cultura alimentar é muito centrada nos alimentos de origem animal,
 
 * Site [O Vegetariano](http://ovegetariano.pt), da nutricionista Sandra Gomes Silva.
 
-* [Cuidados nutricionais a ter numa alimentação vegetariana](https://veggiekit.pt/cuidados-nutricionais-a-ter-numa-alimentacao-vegetariana/), por Rafaela Honório, nutricionista parceira da Associação Vegetariana Portuguesa.
+* [Cuidados nutricionais a ter numa alimentação vegetariana](https://greendate.pt/blog/blog-post-3/), pela nutricionista Rafaela Honório.
 
 ![[Foto de frutas e legumes da Quinta das Águias]](/assets/images/quinta_aguias_vegetais.png "Frutas e legumes da Quinta das Águias")
 <div class="img-caption">Foto cedida pela <a href="https://www.facebook.com/associacaoquintadasaguias/photos/2578403615585394">Quinta das Águias</a>.</div>

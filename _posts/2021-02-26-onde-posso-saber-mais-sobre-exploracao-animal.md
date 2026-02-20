@@ -15,7 +15,7 @@ Ainda assim, é nossa convicção que quem come ou usa os animais e/ou os produt
 
 # Vídeos {#links}
 
-* [Domínio](https://www.youtube.com/watch?v=TxRlPC9VNGk&cc_load_policy=1&cc_lang_pref=pt), documentário de Shaun Monson
+* [Domínio](https://www.youtube.com/watch?v=LQRAfJyEsko&cc_lang_pref=pt&cc_load_policy=1), documentário de Shaun Monson
 * [Terráqueos](https://www.youtube.com/watch?v=_GGBFv0zw18&cc_load_policy=1&cc_lang_pref=pt), documentário de Shaun Monson narrado por Joaquin Phoenix (em inglês, legendado em português)
 * [A Carne é Fraca](https://www.youtube.com/watch?v=rrFsGTw5bCw&cc_load_policy=1&cc_lang_pref=pt), documentário do Instituto Nina Rosa
 * [Land of Hope and Glory](https://www.youtube.com/watch?v=dvtVkNofcq8&cc_load_policy=1&cc_lang_pref=pt), documentário de Luna Woods (em inglês, legendado em português)
